@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-3329' action='modify' visible='true' lat='0.02205184703' lon='0.03713861344'>
+    <tag k='addr:housename' v='Yo Creamie' />
+    <tag k='addr:housenumber' v='B1-R3-E6-K3' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3327' action='modify' visible='true' lat='0.01793120995' lon='0.04500035572'>
+    <tag k='addr:housename' v='Paris Baguette' />
+    <tag k='addr:housenumber' v='B1-R3-E7-K5' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3325' action='modify' visible='true' lat='0.02685022033' lon='0.02770452271'>
+    <tag k='addr:housename' v='Nino Cafe' />
+    <tag k='addr:housenumber' v='B1-R3-D5-K1' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3323' action='modify' visible='true' lat='0.02679600142' lon='0.03269266264'>
+    <tag k='addr:housename' v='Maxx Cafe' />
+    <tag k='addr:housenumber' v='B1-R3-D5-K2' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3321' action='modify' visible='true' lat='0.00860555731' lon='0.04510879354'>
+    <tag k='addr:housename' v='Caffeina' />
+    <tag k='addr:housenumber' v='B1-R3-F6-K7-K8' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3319' action='modify' visible='true' lat='0.06069199461' lon='0.03833548071' />
+  <node id='-3315' action='modify' visible='true' lat='0.04582692544' lon='0.06337581173' />
+  <node id='-3313' action='modify' visible='true' lat='0.04480020093' lon='0.06335643956' />
+  <node id='-3311' action='modify' visible='true' lat='0.02188919031' lon='0.04494613681'>
+    <tag k='addr:housename' v='Cafe Deluxe' />
+    <tag k='addr:housenumber' v='B1-R3-E6-K4' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3309' action='modify' visible='true' lat='0.05117552949' lon='0.0744900221'>
+    <tag k='addr:housename' v='Sing Buffet' />
+    <tag k='addr:housenumber' v='B1-R2-B9-14' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3307' action='modify' visible='true' lat='0.024337174' lon='0.06196545337'>
+    <tag k='addr:housename' v='SMS' />
+    <tag k='addr:housenumber' v='B1-R2-D8-D9-K4' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3305' action='modify' visible='true' lat='0.0243968148' lon='0.06506677515'>
+    <tag k='addr:housename' v='Pizza+ Plus' />
+    <tag k='addr:housenumber' v='B1-R2-D9-K3' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3303' action='modify' visible='true' lat='0.02541070836' lon='0.05844664596'>
+    <tag k='addr:housename' v='Paloma Cafe' />
+    <tag k='addr:housenumber' v='B1-R2-D8-1' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3301' action='modify' visible='true' lat='0.03220975909' lon='0.05606101382'>
+    <tag k='addr:housename' v='Nijyu Maru' />
+    <tag k='addr:housenumber' v='B1-R2-D8-3' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3299' action='modify' visible='true' lat='0.04944594686' lon='0.05606101382'>
+    <tag k='addr:housename' v='MK' />
+    <tag k='addr:housenumber' v='B1-R2-B8-9-10' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3297' action='modify' visible='true' lat='0.02881023378' lon='0.05612065462'>
+    <tag k='addr:housename' v='Lotteria' />
+    <tag k='addr:housenumber' v='B1-R2-D8-2' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3295' action='modify' visible='true' lat='0.03626533301' lon='0.06315826944'>
+    <tag k='addr:housename' v='Kodo BBQ' />
+    <tag k='addr:housenumber' v='B1-R2-C8-C9-23' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3293' action='modify' visible='true' lat='0.02588783474' lon='0.06500713434'>
+    <tag k='addr:housename' v='Hanoi Corner' />
+    <tag k='addr:housenumber' v='B1-R2-D9-K2' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3291' action='modify' visible='true' lat='0.02582819394' lon='0.06208473497'>
+    <tag k='addr:housename' v='Green Smothies' />
+    <tag k='addr:housenumber' v='B1-R2-D8-K1' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3289' action='modify' visible='true' lat='0.05734834988' lon='0.06792953371'>
+    <tag k='addr:housename' v='Grand Brothers Buffet' />
+    <tag k='addr:housenumber' v='B1-R2-A9-12-13' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3287' action='modify' visible='true' lat='0.02490376158' lon='0.07258151639'>
+    <tag k='addr:housename' v='Fresh&amp;Tasty' />
+    <tag k='addr:housenumber' v='B1-R2-D10-K16' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3285' action='modify' visible='true' lat='0.02931718054' lon='0.06208473497'>
+    <tag k='addr:housename' v='Fresh&amp;Tasty' />
+    <tag k='addr:housenumber' v='B1-R2-D8-K5' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3283' action='modify' visible='true' lat='0.02752795666' lon='0.06494749354'>
+    <tag k='addr:housename' v='Fresh Me Now' />
+    <tag k='addr:housenumber' v='B1-R2-D9-K7' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3281' action='modify' visible='true' lat='0.06083733503' lon='0.04926196222' />
+  <node id='-3279' action='modify' visible='true' lat='0.06083733503' lon='0.04598171803' />
+  <node id='-3277' action='modify' visible='true' lat='0.06083733503' lon='0.04353644509' />
+  <node id='-3275' action='modify' visible='true' lat='0.06077769426' lon='0.04043512331' />
+  <node id='-3273' action='modify' visible='true' lat='0.06065841272' lon='0.03751272394' />
+  <node id='-3271' action='modify' visible='true' lat='0.06116535926' lon='0.06035515167'>
+    <tag k='addr:housename' v='Faji' />
+    <tag k='addr:housenumber' v='B1-R2-A8-11' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3269' action='modify' visible='true' lat='0.046941034' lon='0.06339683265' />
+  <node id='-3267' action='modify' visible='true' lat='0.04378007241' lon='0.06333719185' />
+  <node id='-3265' action='modify' visible='true' lat='0.03292544862' lon='0.06214437578'>
+    <tag k='addr:housename' v='Cafeteria' />
+    <tag k='addr:housenumber' v='B1-R2-D8-K9' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3263' action='modify' visible='true' lat='0.03626533301' lon='0.05623993623'>
+    <tag k='addr:housename' v='Boss Grand' />
+    <tag k='addr:housenumber' v='B1-R2-C8-4' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3261' action='modify' visible='true' lat='0.03301490981' lon='-0.00691967466'>
+    <tag k='addr:housename' v='Torino Coffee' />
+    <tag k='addr:housenumber' v='B1-R1-C1-25' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3259' action='modify' visible='true' lat='0.04112605738' lon='-0.01169093894'>
+    <tag k='addr:housename' v='Niji Sushi' />
+    <tag k='addr:housenumber' v='B1-R1-C1-6' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3257' action='modify' visible='true' lat='0.04720941752' lon='-0.00793356832'>
+    <tag k='addr:housename' v='Nam Thanh Food' />
+    <tag k='addr:housenumber' v='B1-R1-B1-K5' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3255' action='modify' visible='true' lat='0.03080820042' lon='-0.00686003386'>
+    <tag k='addr:housename' v='Le Grape 3' />
+    <tag k='addr:housenumber' v='B1-R1-D1-26' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <node id='-3253' action='modify' visible='true' lat='0.04950558764' lon='-0.01175057974' />
+  <node id='-3251' action='modify' visible='true' lat='0.0465831893' lon='-0.01175057974' />
+  <node id='-3249' action='modify' visible='true' lat='0.04395899476' lon='-0.01181022054' />
+  <node id='-3247' action='modify' visible='true' lat='0.05556293155' lon='-0.01206391171' />
+  <node id='-3245' action='modify' visible='true' lat='0.05979381264' lon='-0.01209371048' />
+  <node id='-3243' action='modify' visible='true' lat='0.06092679619' lon='-0.01210842456' />
+  <node id='-3241' action='modify' visible='true' lat='0.05633445672' lon='-0.01204878376' />
+  <node id='-3239' action='modify' visible='true' lat='0.05329277714' lon='-0.01210842456' />
+  <node id='-3237' action='modify' visible='true' lat='0.0511457091' lon='-0.01198914295' />
+  <node id='-3235' action='modify' visible='true' lat='0.04980379155' lon='-0.00811249073'>
+    <tag k='addr:housename' v='Baskin Robins' />
+    <tag k='addr:housenumber' v='B1-R1-B1-K6' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </node>
+  <way id='-3337' action='modify' visible='true'>
+    <nd ref='-3273' />
+    <nd ref='-3319' />
+    <nd ref='-3275' />
+    <nd ref='-3277' />
+    <nd ref='-3279' />
+    <nd ref='-3281' />
+    <tag k='addr:housename' v='Food To Go' />
+    <tag k='addr:housenumber' v='B1-R2-A6-A8-FV-8-9-10-11-12' />
+    <tag k='addr:interpolation' v='odd' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </way>
+  <way id='-3335' action='modify' visible='true'>
+    <nd ref='-3267' />
+    <nd ref='-3313' />
+    <nd ref='-3315' />
+    <nd ref='-3269' />
+    <tag k='addr:housename' v='Carl&apos;s Junior' />
+    <tag k='addr:housenumber' v='B1-R2-B8-B9-26-27' />
+    <tag k='addr:interpolation' v='odd' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </way>
+  <way id='-3333' action='modify' visible='true'>
+    <nd ref='-3249' />
+    <nd ref='-3251' />
+    <nd ref='-3253' />
+    <tag k='addr:housename' v='Gyujin - Gyuta' />
+    <tag k='addr:housenumber' v='B1-R1-B1-7-9' />
+    <tag k='addr:interpolation' v='odd' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </way>
+  <way id='-3331' action='modify' visible='true'>
+    <nd ref='-3237' />
+    <nd ref='-3239' />
+    <nd ref='-3247' />
+    <nd ref='-3241' />
+    <nd ref='-3245' />
+    <nd ref='-3243' />
+    <tag k='addr:housename' v='Chiêm' />
+    <tag k='addr:housenumber' v='B1-R1-A1-10-13' />
+    <tag k='addr:interpolation' v='odd' />
+    <tag k='addr:street' v='Phố ẩm thực' />
+  </way>
+</osm>

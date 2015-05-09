@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_item_save_store"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/editbox_background"
+    android:clickable="true"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingBottom="5dp"
+    android:paddingTop="5dp" >
+
+    <RelativeLayout
+        android:layout_width="55dp"
+        android:layout_height="50dp"
+        android:focusable="false"
+        android:focusableInTouchMode="false" >
+
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:scaleType="centerCrop"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/logo_empty" 
+            android:clickable="true"
+            android:onClick="btnClicked"/>
+
+        <ImageView
+            android:id="@+id/icon"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:background="#0222"
+            android:contentDescription="@string/app_name"
+            android:padding="1dp"
+            android:src="@drawable/sample_promotion" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:singleLine="true"
+            android:text="KFC"
+            android:textColor="#2ecc71"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:singleLine="true"
+            android:text="Location Type"
+            android:textColor="#7380b0"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/btn_delete"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@drawable/item_selector"
+        android:contentDescription="@string/app_name"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:src="@android:drawable/ic_delete" />
+
+</LinearLayout>

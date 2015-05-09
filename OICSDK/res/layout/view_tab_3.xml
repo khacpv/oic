@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <TabHost
+        android:id="@android:id/tabhost"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:id="@+id/LinearLayout01"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:divider="#FFF"
+                android:gravity="center" >
+
+                <TextView
+                    android:id="@+id/textStore"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginRight="0dp"
+                    android:layout_weight="1"
+                    android:background="@color/base_color"
+                    android:gravity="center"
+                    android:minHeight="?android:attr/listPreferredItemHeightSmall"
+                    android:singleLine="true"
+                    android:tag="0"
+                    android:text="@string/dia_diem"
+                    android:textAppearance="?android:attr/textAppearanceListItem"
+                    android:textColor="@color/home_tab_3_text_normal"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/textMap"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginRight="0dp"
+                    android:layout_weight="1"
+                    android:background="@color/base_color"
+                    android:drawableBottom="@drawable/tab_select"
+                    android:gravity="center"
+                    android:minHeight="?android:attr/listPreferredItemHeightSmall"
+                    android:singleLine="true"
+                    android:tag="1"
+                    android:text="@string/ban_do"
+                    android:textAppearance="?android:attr/textAppearanceListItem"
+                    android:textColor="@color/home_tab_3_text_select"
+                    android:textSize="18sp" />
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" >
+
+                    <TextView
+                        android:id="@+id/textGift"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="0dp"
+                        android:background="@color/base_color"
+                        android:gravity="center"
+                        android:minHeight="?android:attr/listPreferredItemHeightSmall"
+                        android:singleLine="true"
+                        android:tag="2"
+                        android:text="@string/khuyen_mai"
+                        android:textAppearance="?android:attr/textAppearanceListItem"
+                        android:textColor="@color/home_tab_3_text_normal"
+                        android:textSize="18sp" />
+                </RelativeLayout>
+            </TabWidget>
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:background="@android:color/transparent" >
+
+                <FrameLayout
+                    android:id="@+id/layoutList"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@android:color/transparent"
+                    android:visibility="invisible" >
+
+                    <include layout="@layout/view_store" />
+                </FrameLayout>
+
+                <FrameLayout
+                    android:id="@+id/layoutMap"
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@android:color/transparent" >
+
+                    <include layout="@layout/view_map" />
+                </FrameLayout>
+
+                <FrameLayout
+                    android:id="@+id/layoutGift"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@android:color/transparent"
+                    android:visibility="invisible" >
+
+                    <include layout="@layout/view_gift" />
+                </FrameLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="3dp"
+                    android:background="@drawable/drawer_shadow_bot" />
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+
+</merge>

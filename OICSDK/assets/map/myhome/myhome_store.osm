@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-142' action='modify' visible='true' lat='-0.04008486728' lon='-0.00493814591'>
+    <tag k='addr:housename' v='Bep' />
+  </node>
+  <node id='-135' action='modify' visible='true' lat='-0.03638893084' lon='0.02462935227'>
+    <tag k='addr:housename' v='Phong ve sinh' />
+  </node>
+  <node id='-125' action='modify' visible='true' lat='-0.01585594823' lon='0.02545067166'>
+    <tag k='addr:housename' v='Giuong' />
+  </node>
+  <node id='-120' action='modify' visible='true' lat='0.00693566473' lon='0.04064508045'>
+    <tag k='addr:housename' v='Tu lanh' />
+  </node>
+  <node id='-116' action='modify' visible='true' lat='0.01473819883' lon='-0.01274068015'>
+    <tag k='addr:housename' v='Gia de giay dep' />
+  </node>
+  <node id='-113' action='modify' visible='true' lat='0.0408150863' lon='0.03612782378'>
+    <tag k='addr:housename' v='Bàn Khac' />
+  </node>
+  <node id='-111' action='modify' visible='true' lat='0.0406097565' lon='0.01764813742'>
+    <tag k='addr:housename' v='Bàn Thăng' />
+  </node>
+</osm>

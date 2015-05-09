@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OIC Bản đồ</string>
+    <string name="store_name">Tên cửa hàng</string>
+    <string name="loi_di">Lối đi</string>
+    <string name="cai_dat">Cài đặt</string>
+    
+    <!-- Find baby screen -->
+    <string name="ten">Tên</string>
+    <string name="tuoi">Tuổi</string>
+    <string name="gioi_tinh">Giới tính</string>
+    <string name="ngay_sinh">Ngày sinh</string>
+    <string name="mo_ta">Mô tả</string>
+    <string name="male">Trai</string>
+    <string name="female">Gái</string>
+    <string name="chi_tiet">Thông tin chi tiết</string>
+    
+    <!-- RouteScreen -->
+    <string name="diem_di">Điểm đi</string>
+    <string name="diem_den">Điểm đến</string>
+    <string name="tim_duong">Tìm đường</string>
+    <string name="tim_tre_lac">Tìm trẻ lạc</string>
+    <string name="vi_tri_cua_toi">Vị trí của tôi</string>
+    
+    <!-- SplashScreen -->
+    <string name="bat_dau">Bắt đầu</string>
+    
+    <!-- SettingScreen -->
+    <string name="device_version">Device version: </string>
+    <string name="unknown">unknown </string>
+    <string name="app_version">App version: </string>
+    <string name="map_version">OIC-Map version: </string>
+    <string name="release_date">Release date: </string>
+    <string name="map_debug">OIC Map Debug: </string>
+    <string name="map_rotate">OIC Map Rotate: </string>
+    <string name="show_welcome">Welcome on next time: </string>
+	
+	<!-- HomeScreen -->
+	<string name="openDrawerContentDescRes">Phân loại</string>
+	<string name="closeDrawerContentDescRes">OIC-Bản đồ</string>
+	<string name="action_search">Tìm kiếm</string>
+	<string name="search">Tìm kiếm</string>
+	<string name="action_save_wifi">Lưu dữ liệu wifi</string>
+	<string name="select_map">Chọn địa điểm</string>
+	<string name="cua_hang_loi_di">Cửa hàng, lối đi&#8230;</string>
+	<string name="kfc">KFC</string>
+	
+	<!-- mapview -->
+	<string name="cua_hang">Cửa hàng</string>
+	<string name="dia_diem">Địa điểm</string>
+	<string name="ban_do">Bản đồ</string>
+	<string name="khuyen_mai">Khuyến mại</string>
+	
+	<string name="shop">Mua sắm</string>
+	<string name="food">Ăn uống</string>
+	<string name="healthcare">Làm đẹp</string>
+	<string name="play">Vui chơi</string>
+	<string name="notify">Tìm trẻ lạc</string>
+	<string name="setting">Cài đặt</string>
+</resources>

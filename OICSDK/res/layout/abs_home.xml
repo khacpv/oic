@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+    android:background="@color/base_color">
+	<ImageButton
+        android:id="@+id/abs_btn_menu"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/item_selector"
+        android:contentDescription="@string/app_name"
+        android:onClick="btnClicked"
+        android:src="@drawable/ic_actionbar_menu" />
+    <TextView
+        android:id="@+id/mytext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:clickable="true"
+        android:onClick="btnClicked"
+        android:text="@string/app_name"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:id="@+id/abs_btn_search"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/item_selector"
+        android:contentDescription="@string/app_name"
+        android:onClick="btnClicked"
+        android:src="@drawable/ic_actionbar_search" />
+
+    <com.oic.sdk.vender.ClearableAutoCompleteTextView
+        android:id="@+id/abs_edt_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/editbox_background"
+        android:completionThreshold="1"
+        android:ems="10"
+        android:hint="@string/cua_hang_loi_di"
+        android:minHeight="50dp"
+        android:singleLine="true"
+        android:visibility="gone" >
+    </com.oic.sdk.vender.ClearableAutoCompleteTextView>
+
+</RelativeLayout>

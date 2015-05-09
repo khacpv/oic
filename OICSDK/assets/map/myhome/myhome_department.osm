@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <bounds maxlat='0.0449538' maxlon='-0.0452831' minlat='-0.0446285' minlon='0.0448405' origin='OpenStreetMap server' />
+  <node id='-105' action='modify' visible='true' lat='-0.00587451514' lon='0.04492638049' />
+  <node id='-103' action='modify' visible='true' lat='-0.00594731214' lon='0.00590718752' />
+  <node id='-96' action='modify' visible='true' lat='-0.04467531259' lon='0.04470798949' />
+  <node id='-94' action='modify' visible='true' lat='-0.02633047173' lon='0.04485358349' />
+  <node id='-92' action='modify' visible='true' lat='-0.02618487774' lon='0.00590718752' />
+  <node id='-83' action='modify' visible='true' lat='-0.04474810957' lon='0.00576159352' />
+  <node id='-81' action='modify' visible='true' lat='-0.03601247153' lon='0.00576159352' />
+  <node id='-79' action='modify' visible='true' lat='-0.03586688278' lon='-0.01430851137' />
+  <node id='-73' action='modify' visible='true' lat='0.02642549253' lon='0.0448510098' />
+  <node id='-71' action='modify' visible='true' lat='0.01947337942' lon='0.04477821279' />
+  <node id='-69' action='modify' visible='true' lat='0.01943698092' lon='0.04299468625' />
+  <node id='-68' action='modify' visible='true' lat='0.02638909404' lon='0.04299468625' />
+  <node id='-62' action='modify' visible='true' lat='-0.00097160301' lon='0.04491549501' />
+  <node id='-60' action='modify' visible='true' lat='-0.00107455352' lon='0.03662797917' />
+  <node id='-58' action='modify' visible='true' lat='0.01431654717' lon='0.03652502866' />
+  <node id='-57' action='modify' visible='true' lat='0.01436802242' lon='0.04486401975' />
+  <node id='-51' action='modify' visible='true' lat='0.04491667574' lon='0.04483548922' />
+  <node id='-49' action='modify' visible='true' lat='0.03516187989' lon='0.04490828623' />
+  <node id='-47' action='modify' visible='true' lat='0.03519827838' lon='0.0279465848' />
+  <node id='-46' action='modify' visible='true' lat='0.04488027725' lon='0.0279101863' />
+  <node id='-39' action='modify' visible='true' lat='0.04484387876' lon='0.02579907325' />
+  <node id='-37' action='modify' visible='true' lat='0.03527107537' lon='0.02583547175' />
+  <node id='-35' action='modify' visible='true' lat='0.03530749046' lon='0.01106049881' />
+  <node id='-29' action='modify' visible='true' lat='0.00933098229' lon='-0.01429771736' />
+  <node id='-27' action='modify' visible='true' lat='0.00933099258' lon='-0.01055738028' />
+  <node id='-25' action='modify' visible='true' lat='0.01947161721' lon='-0.0105831179' />
+  <node id='-23' action='modify' visible='true' lat='0.01947160634' lon='-0.01429529561' />
+  <node id='-19' action='modify' visible='true' lat='0.04487133781' lon='0.01100416987' />
+  <node id='-17' action='modify' visible='true' lat='0.02957675634' lon='0.01109425157' />
+  <node id='-15' action='modify' visible='true' lat='0.02958176738' lon='-0.01429288113' />
+  <node id='-13' action='modify' visible='true' lat='-0.04490179516' lon='-0.01431066906' />
+  <node id='-10' action='modify' visible='true' lat='-0.04491476007' lon='-0.04491478213' />
+  <node id='-7' action='modify' visible='true' lat='0.04491578868' lon='-0.04491583639' />
+  <way id='-104' action='modify' visible='true'>
+    <nd ref='-92' />
+    <nd ref='-103' />
+    <nd ref='-105' />
+    <nd ref='-94' />
+    <nd ref='-92' />
+    <tag k='color_fill' v='#cbdfaa' />
+  </way>
+  <way id='-93' action='modify' visible='true'>
+    <nd ref='-83' />
+    <nd ref='-92' />
+    <nd ref='-94' />
+    <nd ref='-96' />
+    <nd ref='-83' />
+    <tag k='color_fill' v='#dfdfdf' />
+  </way>
+  <way id='-82' action='modify' visible='true'>
+    <nd ref='-79' />
+    <nd ref='-81' />
+    <nd ref='-83' />
+    <nd ref='-13' />
+    <nd ref='-79' />
+    <tag k='color_fill' v='#b79fff' />
+  </way>
+  <way id='-70' action='modify' visible='true'>
+    <nd ref='-68' />
+    <nd ref='-69' />
+    <nd ref='-71' />
+    <nd ref='-73' />
+    <nd ref='-68' />
+    <tag k='color_fill' v='#dfdfdf' />
+  </way>
+  <way id='-59' action='modify' visible='true'>
+    <nd ref='-57' />
+    <nd ref='-58' />
+    <nd ref='-60' />
+    <nd ref='-62' />
+    <nd ref='-57' />
+    <tag k='color_fill' v='#fff4ce' />
+  </way>
+  <way id='-48' action='modify' visible='true'>
+    <nd ref='-46' />
+    <nd ref='-47' />
+    <nd ref='-49' />
+    <nd ref='-51' />
+    <nd ref='-46' />
+    <tag k='color_fill' v='#fff4ce' />
+  </way>
+  <way id='-38' action='modify' visible='true'>
+    <nd ref='-35' />
+    <nd ref='-37' />
+    <nd ref='-39' />
+    <nd ref='-19' />
+    <nd ref='-35' />
+    <tag k='color_fill' v='#fff4ce' />
+  </way>
+  <way id='-26' action='modify' visible='true'>
+    <nd ref='-23' />
+    <nd ref='-25' />
+    <nd ref='-27' />
+    <nd ref='-29' />
+    <nd ref='-23' />
+    <tag k='color_fill' v='#fff4ce' />
+  </way>
+  <way id='-11' action='modify' visible='true'>
+    <nd ref='-7' />
+    <nd ref='-10' />
+    <nd ref='-13' />
+    <nd ref='-79' />
+    <nd ref='-29' />
+    <nd ref='-23' />
+    <nd ref='-15' />
+    <nd ref='-17' />
+    <nd ref='-35' />
+    <nd ref='-19' />
+    <nd ref='-7' />
+    <tag k='color_fill' v='#dfdfdf' />
+  </way>
+</osm>

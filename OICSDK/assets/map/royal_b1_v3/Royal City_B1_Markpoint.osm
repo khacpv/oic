@@ -1,0 +1,1855 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-576' action='modify' visible='true' lat='0.00852902667' lon='0.03909295992'>
+    <tag k='_id' v='282' />
+    <tag k='icon' v='coffee' />
+    <tag k='loc_name' v='Caffenia' />
+    <tag k='location' v='B1-R3-F6-(K7-K8)' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-574' action='modify' visible='true' lat='0.02175142801' lon='0.04322813384'>
+    <tag k='_id' v='281' />
+    <tag k='icon' v='coffee' />
+    <tag k='loc_name' v='Cafe Deluxe' />
+    <tag k='location' v='B1-R3-E6-K4' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-572' action='modify' visible='true' lat='0.03583894876' lon='0.06762298508' />
+  <node id='-570' action='modify' visible='true' lat='0.04343832021' lon='0.06767342885'>
+    <tag k='_id' v='280' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-568' action='modify' visible='true' lat='0.05500345017' lon='0.03951729264'>
+    <tag k='_id' v='279' />
+    <tag k='icon' v='restaurant' />
+    <tag k='loc_name' v='Hải sản' />
+    <tag k='location' v='B1-R2-A6-(K13-K15)' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-566' action='modify' visible='true' lat='0.05240771818' lon='0.03961809781'>
+    <tag k='_id' v='278' />
+    <tag k='icon' v='wc' />
+    <tag k='location_type' v='wc' />
+  </node>
+  <node id='-564' action='modify' visible='true' lat='0.05305360694' lon='0.03756922409'>
+    <tag k='_id' v='277' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-562' action='modify' visible='true' lat='0.05369512684' lon='0.02060457943'>
+    <tag k='_id' v='276' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-560' action='modify' visible='true' lat='0.05618251327' lon='0.01070073052'>
+    <tag k='_id' v='275' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-558' action='modify' visible='true' lat='0.05561369346' lon='-0.00039471038'>
+    <tag k='_id' v='274' />
+    <tag k='icon' v='games' />
+    <tag k='loc_name' v='Khu game R1' />
+    <tag k='location' v='B1-R1-A-(1,2)- (K7-K19)' />
+    <tag k='location_type' v='play' />
+  </node>
+  <node id='-556' action='modify' visible='true' lat='0.0562324044' lon='0.04866452842'>
+    <tag k='_id' v='273' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-554' action='modify' visible='true' lat='0.0316516011' lon='0.05812814054'>
+    <tag k='_id' v='272' />
+    <tag k='icon' v='restaurant' />
+    <tag k='loc_name' v='Nijyu Maru' />
+    <tag k='location' v='B1-R2-D8-3' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-552' action='modify' visible='true' lat='0.03432037439' lon='0.05430055716'>
+    <tag k='_id' v='271' />
+    <tag k='icon' v='in' />
+    <tag k='location_type' v='in' />
+  </node>
+  <node id='-550' action='modify' visible='true' lat='0.03266994881' lon='0.05581052125'>
+    <tag k='_id' v='270' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-548' action='modify' visible='true' lat='0.03632195431' lon='0.05574029036'>
+    <tag k='_id' v='269' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-546' action='modify' visible='true' lat='0.0362000773' lon='0.05791742603'>
+    <tag k='_id' v='268' />
+    <tag k='icon' v='restaurant' />
+    <tag k='loc_name' v='Boss' />
+    <tag k='location' v='B1-R2-C8-4' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-544' action='modify' visible='true' lat='0.04344009411' lon='0.06697978737'>
+    <tag k='_id' v='267' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-542' action='modify' visible='true' lat='0.0293627794' lon='0.06442716933'>
+    <tag k='_id' v='266' />
+    <tag k='icon' v='coffee' />
+    <tag k='loc_name' v='Fresh Me Now' />
+    <tag k='location' v='B1-R2-D9-K7' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-540' action='modify' visible='true' lat='0.0256581005' lon='0.06442716933'>
+    <tag k='_id' v='265' />
+    <tag k='icon' v='restaurant' />
+    <tag k='loc_name' v='Pizza+ Plus' />
+    <tag k='location' v='B1-R2-D9-K3' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-538' action='modify' visible='true' lat='0.02458707957' lon='0.06444472706'>
+    <tag k='_id' v='264' />
+    <tag k='icon' v='coffee' />
+    <tag k='loc_name' v='Trà sữa trân châu' />
+    <tag k='location' v='B1-R2-D9-K2' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-536' action='modify' visible='true' lat='0.0256581005' lon='0.06239047359'>
+    <tag k='_id' v='263' />
+    <tag k='icon' v='coffee' />
+    <tag k='loc_name' v='SMS' />
+    <tag k='location' v='B1-R2-D9-K4' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-534' action='modify' visible='true' lat='0.02918720221' lon='0.06759633814'>
+    <tag k='_id' v='262' />
+    <tag k='icon' v='games' />
+    <tag k='loc_name' v='Khu game R2' />
+    <tag k='location' v='B1-R2-D9-(K13-K15)' />
+    <tag k='location_type' v='play' />
+  </node>
+  <node id='-532' action='modify' visible='true' lat='0.05558034475' lon='0.07739387226'>
+    <tag k='_id' v='261' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-530' action='modify' visible='true' lat='0.05660453963' lon='0.07737272255'>
+    <tag k='_id' v='260' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-528' action='modify' visible='true' lat='0.06100354568' lon='0.06064679287'>
+    <tag k='_id' v='259' />
+    <tag k='icon' v='restaurant' />
+    <tag k='loc_name' v='Buffet lẩu nướng' />
+    <tag k='location' v='B1-R2-A8-11' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-526' action='modify' visible='true' lat='0.05987515388' lon='0.05763048693'>
+    <tag k='_id' v='258' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-524' action='modify' visible='true' lat='0.05984724747' lon='0.05672063286'>
+    <tag k='_id' v='257' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-522' action='modify' visible='true' lat='0.06258087921' lon='-0.00609443625'>
+    <tag k='_id' v='256' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-520' action='modify' visible='true' lat='0.06255454265' lon='-0.0085349596'>
+    <tag k='_id' v='255' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-518' action='modify' visible='true' lat='0.06255454265' lon='-0.00896512378'>
+    <tag k='_id' v='254' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-516' action='modify' visible='true' lat='0.06254576379' lon='-0.01045753015'>
+    <tag k='_id' v='253' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-514' action='modify' visible='true' lat='0.02187770958' lon='-0.01118066482'>
+    <tag k='_id' v='252' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-512' action='modify' visible='true' lat='0.0227010836' lon='-0.01119981305'>
+    <tag k='_id' v='251' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-510' action='modify' visible='true' lat='0.04126880478' lon='-0.01186701147'>
+    <tag k='_id' v='250' />
+    <tag k='icon' v='restaurant' />
+    <tag k='loc_name' v='Niji Sushi' />
+    <tag k='location' v='B1-R1-C1-6' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-508' action='modify' visible='true' lat='0.04676612706' lon='-0.01214669903'>
+    <tag k='_id' v='249' />
+    <tag k='icon' v='restaurant' />
+    <tag k='loc_name' v='Gyu Jin' />
+    <tag k='location' v='B1-R1-B1-(7-9)' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-506' action='modify' visible='true' lat='0.05618621015' lon='-0.01224360263'>
+    <tag k='_id' v='248' />
+    <tag k='icon' v='restaurant' />
+    <tag k='loc_name' v='Chiêm' />
+    <tag k='location' v='B1-R1-A1-(10-13)' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-504' action='modify' visible='true' lat='0.0247540414' lon='-0.01441585197'>
+    <tag k='_id' v='247' />
+    <tag k='icon' v='wc' />
+    <tag k='location_type' v='wc' />
+  </node>
+  <node id='-502' action='modify' visible='true' lat='0.05185488569' lon='-0.00704011811'>
+    <tag k='_id' v='246' />
+    <tag k='icon' v='elevator' />
+    <tag k='location_type' v='elevator' />
+  </node>
+  <node id='-500' action='modify' visible='true' lat='0.05099902777' lon='-0.00483542292'>
+    <tag k='_id' v='245' />
+    <tag k='icon' v='parking' />
+    <tag k='loc_name' v='Lối xuống hầm gửi xe Zone 2' />
+    <tag k='location_type' v='parking' />
+  </node>
+  <node id='-498' action='modify' visible='true' lat='0.05357258302' lon='0.01324377382'>
+    <tag k='_id' v='244' />
+    <tag k='icon' v='wc' />
+    <tag k='location_type' v='wc' />
+  </node>
+  <node id='-496' action='modify' visible='true' lat='0.06299848413' lon='0.05519678165'>
+    <tag k='_id' v='243' />
+    <tag k='icon' v='wc' />
+    <tag k='location_type' v='wc' />
+  </node>
+  <node id='-494' action='modify' visible='true' lat='0.05704935001' lon='0.0553513047'>
+    <tag k='_id' v='242' />
+    <tag k='icon' v='elevator' />
+    <tag k='location_type' v='elevator' />
+  </node>
+  <node id='-492' action='modify' visible='true' lat='0.05488602835' lon='0.05519678165'>
+    <tag k='_id' v='241' />
+    <tag k='icon' v='parking' />
+    <tag k='loc_name' v='Lối xuống hầm gửi xe Zone 2' />
+    <tag k='location_type' v='parking' />
+  </node>
+  <node id='-490' action='modify' visible='true' lat='0.05364984451' lon='0.06052782684'>
+    <tag k='_id' v='240' />
+    <tag k='icon' v='elevator' />
+    <tag k='location_type' v='elevator' />
+  </node>
+  <node id='-488' action='modify' visible='true' lat='0.02235893434' lon='0.02599192537'>
+    <tag k='_id' v='239' />
+    <tag k='icon' v='atm' />
+    <tag k='location_type' v='atm' />
+  </node>
+  <node id='-486' action='modify' visible='true' lat='0.01988656573' lon='0.02606918689'>
+    <tag k='_id' v='238' />
+    <tag k='icon' v='elevator' />
+    <tag k='location_type' v='elevator' />
+  </node>
+  <node id='-484' action='modify' visible='true' lat='0.02124458093' lon='0.07540660893'>
+    <tag k='_id' v='237' />
+    <tag k='icon' v='wc' />
+    <tag k='location_type' v='wc' />
+  </node>
+  <node id='-482' action='modify' visible='true' lat='0.00288903073' lon='0.06439090307'>
+    <tag k='_id' v='236' />
+    <tag k='icon' v='elevator' />
+    <tag k='location_type' v='elevator' />
+  </node>
+  <node id='-480' action='modify' visible='true' lat='0.00103475414' lon='0.06554982594'>
+    <tag k='_id' v='235' />
+    <tag k='icon' v='parking' />
+    <tag k='loc_name' v='Lối xuống hầm gửi xe Zone 4' />
+    <tag k='location_type' v='parking' />
+  </node>
+  <node id='-478' action='modify' visible='true' lat='-0.0161173041' lon='0.05952342702'>
+    <tag k='_id' v='234' />
+    <tag k='icon' v='elevator' />
+    <tag k='location_type' v='elevator' />
+  </node>
+  <node id='-476' action='modify' visible='true' lat='0.001382431' lon='-0.00417869996'>
+    <tag k='_id' v='233' />
+    <tag k='icon' v='elevator' />
+    <tag k='location_type' v='elevator' />
+  </node>
+  <node id='-474' action='modify' visible='true' lat='0.00088023109' lon='-0.00367650006'>
+    <tag k='_id' v='232' />
+    <tag k='icon' v='parking' />
+    <tag k='loc_name' v='Lối xuống hầm gửi xe Zone 5' />
+    <tag k='location_type' v='parking' />
+  </node>
+  <node id='-472' action='modify' visible='true' lat='0.00068707728' lon='0.0051699445'>
+    <tag k='_id' v='231' />
+    <tag k='icon' v='wc' />
+    <tag k='location_type' v='wc' />
+  </node>
+  <node id='-470' action='modify' visible='true' lat='0.00161421557' lon='0.05519678165'>
+    <tag k='_id' v='230' />
+    <tag k='icon' v='wc' />
+    <tag k='location_type' v='wc' />
+  </node>
+  <node id='-468' action='modify' visible='true' lat='-0.00858430564' lon='0.01896112664'>
+    <tag k='_id' v='229' />
+    <tag k='icon' v='wc' />
+    <tag k='location_type' v='wc' />
+  </node>
+  <node id='-466' action='modify' visible='true' lat='-0.00765716735' lon='0.02637823299'>
+    <tag k='_id' v='228' />
+    <tag k='icon' v='elevator' />
+    <tag k='location_type' v='elevator' />
+  </node>
+  <node id='-464' action='modify' visible='true' lat='-0.04447227935' lon='0.02637823299'>
+    <tag k='_id' v='227' />
+    <tag k='icon' v='elevator' />
+    <tag k='location_type' v='elevator' />
+  </node>
+  <node id='-462' action='modify' visible='true' lat='-0.05139269157' lon='0.03234116839'>
+    <tag k='_id' v='226' />
+    <tag k='icon' v='elevator' />
+    <tag k='location_type' v='elevator' />
+  </node>
+  <node id='-460' action='modify' visible='true' lat='-0.04773658689' lon='0.02531047976'>
+    <tag k='_id' v='225' />
+    <tag k='icon' v='atm' />
+    <tag k='location_type' v='atm' />
+  </node>
+  <node id='-458' action='modify' visible='true' lat='-0.04775591143' lon='0.02685834508'>
+    <tag k='_id' v='224' />
+    <tag k='icon' v='info' />
+    <tag k='loc_name' v='Quầy thông tin' />
+    <tag k='location_type' v='info' />
+  </node>
+  <node id='-456' action='modify' visible='true' lat='-0.05119402964' lon='0.01061688198'>
+    <tag k='_id' v='223' />
+    <tag k='icon' v='elevator' />
+    <tag k='location_type' v='elevator' />
+  </node>
+  <node id='-454' action='modify' visible='true' lat='-0.05312556696' lon='0.00984426674'>
+    <tag k='_id' v='222' />
+    <tag k='icon' v='parking' />
+    <tag k='loc_name' v='Lối xuống hầm gửi xe Zone 6' />
+    <tag k='location_type' v='parking' />
+  </node>
+  <node id='-452' action='modify' visible='true' lat='-0.05934511668' lon='-0.0003542545'>
+    <tag k='_id' v='221' />
+    <tag k='icon' v='wc' />
+    <tag k='location_type' v='wc' />
+  </node>
+  <node id='-450' action='modify' visible='true' lat='0.01576520634' lon='0.0213409093'>
+    <tag k='_id' v='220' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Levi&apos;s' />
+    <tag k='location' v='B1-R3-E4-20' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-448' action='modify' visible='true' lat='0.00957151403' lon='0.0215324668'>
+    <tag k='_id' v='219' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Lacoste' />
+    <tag k='location' v='B1-R3-F4-18' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-446' action='modify' visible='true' lat='0.00548495409' lon='0.05843921158'>
+    <tag k='_id' v='218' />
+    <tag k='icon' v='shoes' />
+    <tag k='loc_name' v='Scorpion' />
+    <tag k='location' v='B1-R4-F8-30' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-444' action='modify' visible='true' lat='0.00318626411' lon='0.03104648924'>
+    <tag k='_id' v='217' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Lining' />
+    <tag k='location' v='B1-R4-F5-2' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-442' action='modify' visible='true' lat='0.0207776273' lon='0.0205108268'>
+    <tag k='_id' v='216' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Skechers' />
+    <tag k='location' v='B1-R5-F2-26' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-440' action='modify' visible='true' lat='0.01299628315' lon='-0.00259731942'>
+    <tag k='_id' v='215' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Aino Sofia &amp; John Henry' />
+    <tag k='location' v='B1-R5-F1-27' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-438' action='modify' visible='true' lat='0.01099797885' lon='0.01797013584'>
+    <tag k='_id' v='214' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Son Kim Mode' />
+    <tag k='location' v='B1-R5-G4-17' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-436' action='modify' visible='true' lat='0.00930349317' lon='-0.01129202806'>
+    <tag k='_id' v='213' />
+    <tag k='icon' v='bag' />
+    <tag k='loc_name' v='Vascara' />
+    <tag k='location' v='B1-R5-F1-6' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-434' action='modify' visible='true' lat='0.02524730192' lon='-0.00119902307'>
+    <tag k='_id' v='212' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Valentino Creations' />
+    <tag k='location' v='B1-R5-E2-40' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-432' action='modify' visible='true' lat='0.02282090714' lon='-0.00451935305'>
+    <tag k='_id' v='211' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Bamboo' />
+    <tag k='location' v='B1-R5-E1-41' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-430' action='modify' visible='true' lat='-0.02941043565' lon='0.03155730924'>
+    <tag k='_id' v='210' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='AK Club' />
+    <tag k='location' v='B1-R6-J5-41' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-428' action='modify' visible='true' lat='-0.04910687466' lon='0.03180017164'>
+    <tag k='_id' v='209' />
+    <tag k='icon' v='bag' />
+    <tag k='loc_name' v='Nine West' />
+    <tag k='location' v='B1-R6-L5-32' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-426' action='modify' visible='true' lat='-0.04633497102' lon='0.0320160003'>
+    <tag k='_id' v='208' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Easy Spirit' />
+    <tag k='location' v='B1-R6-L5-33' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-424' action='modify' visible='true' lat='-0.03410359365' lon='0.03181271923'>
+    <tag k='_id' v='207' />
+    <tag k='icon' v='shoes' />
+    <tag k='loc_name' v='Bata' />
+    <tag k='location' v='B1-R6-K5-39' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-422' action='modify' visible='true' lat='-0.01083801995' lon='0.02103544481'>
+    <tag k='_id' v='206' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='G2000' />
+    <tag k='location' v='B1-R6-H4-1' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-420' action='modify' visible='true' lat='-0.02385526879' lon='0.0215324668'>
+    <tag k='_id' v='205' />
+    <tag k='icon' v='shoes' />
+    <tag k='loc_name' v='Noir' />
+    <tag k='location' v='B1-R6-J4-6' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-418' action='modify' visible='true' lat='-0.01661454517' lon='0.03974171522'>
+    <tag k='_id' v='204' />
+    <tag k='icon' v='jewelry' />
+    <tag k='loc_name' v='PNJ' />
+    <tag k='location' v='B1-R4-I6-K10' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-416' action='modify' visible='true' lat='-0.00628451924' lon='0.04607595977'>
+    <tag k='_id' v='203' />
+    <tag k='icon' v='jewelry' />
+    <tag k='loc_name' v='Watch me' />
+    <tag k='location' v='B1-R4-H7-K25' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-414' action='modify' visible='true' lat='-0.01446895188' lon='0.04343387417'>
+    <tag k='_id' v='202' />
+    <tag k='icon' v='jewelry' />
+    <tag k='loc_name' v='Vàng Kim Hương' />
+    <tag k='location' v='B1-R4-I6-(K12-15)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-412' action='modify' visible='true' lat='-0.01172329447' lon='0.04381698916'>
+    <tag k='_id' v='201' />
+    <tag k='icon' v='jewelry' />
+    <tag k='loc_name' v='Royal time' />
+    <tag k='location' v='B1-R4-H6-K19' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-410' action='modify' visible='true' lat='-0.01378216066' lon='0.05448890346'>
+    <tag k='_id' v='200' />
+    <tag k='icon' v='perfumery' />
+    <tag k='loc_name' v='Skin79' />
+    <tag k='location' v='B1-R4-I8-K41' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-408' action='modify' visible='true' lat='-0.01612911681' lon='0.05282019161'>
+    <tag k='_id' v='199' />
+    <tag k='icon' v='perfumery' />
+    <tag k='loc_name' v='The Face shop' />
+    <tag k='location' v='B1-R4-I7-K43' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-406' action='modify' visible='true' lat='-0.00602405528' lon='0.05244573706'>
+    <tag k='_id' v='198' />
+    <tag k='icon' v='perfumery' />
+    <tag k='loc_name' v='Skin Food' />
+    <tag k='location' v='B1-R4-H7-K28' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-404' action='modify' visible='true' lat='-0.01224064908' lon='0.05555152133'>
+    <tag k='_id' v='197' />
+    <tag k='icon' v='perfumery' />
+    <tag k='loc_name' v='NYX' />
+    <tag k='location' v='B1-R4-H8-K37' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-402' action='modify' visible='true' lat='-0.00600335826' lon='0.0540333891'>
+    <tag k='_id' v='196' />
+    <tag k='icon' v='perfumery' />
+    <tag k='loc_name' v='ZA' />
+    <tag k='location' v='B1-R4-H8-(K29-30)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-400' action='modify' visible='true' lat='-0.05938917488' lon='0.01086909936'>
+    <tag k='_id' v='195' />
+    <tag k='icon' v='services' />
+    <tag k='loc_name' v='ibabi' />
+    <tag k='location' v='B1-R6-M3-(16-17)' />
+    <tag k='location_type' v='healthcare' />
+  </node>
+  <node id='-398' action='modify' visible='true' lat='-0.05952575518' lon='0.01440830291'>
+    <tag k='loc_name' v='Dermalogica' />
+    <tag k='location' v='B1-R6-M3-(18-19)' />
+    <tag k='location_type' v='healthcare' />
+  </node>
+  <node id='-396' action='modify' visible='true' lat='-0.05937960955' lon='0.0203192693'>
+    <tag k='_id' v='194' />
+    <tag k='icon' v='services' />
+    <tag k='loc_name' v='Duspiller' />
+    <tag k='location' v='B1-R6-M4-(21-22)' />
+    <tag k='location_type' v='healthcare' />
+  </node>
+  <node id='-394' action='modify' visible='true' lat='0.0493177881' lon='-0.00734093701'>
+    <tag k='_id' v='193' />
+    <tag k='icon' v='restaurant' />
+    <tag k='loc_name' v='Baskin Robins' />
+    <tag k='location' v='B1-R1-B1-K6' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-392' action='modify' visible='true' lat='0.03290960088' lon='-0.00694574804'>
+    <tag k='_id' v='192' />
+    <tag k='icon' v='coffee' />
+    <tag k='loc_name' v='Torino Coffee' />
+    <tag k='location' v='B1-R1-C1-25' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-390' action='modify' visible='true' lat='0.03127035461' lon='0.06235815017'>
+    <tag k='_id' v='191' />
+    <tag k='icon' v='coffee' />
+    <tag k='loc_name' v='Cafeteria' />
+    <tag k='location' v='B1-R2-D9-K9' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-388' action='modify' visible='true' lat='0.02505574444' lon='0.07261446649'>
+    <tag k='_id' v='190' />
+    <tag k='icon' v='restaurant' />
+    <tag k='loc_name' v='Fresh and Tasty' />
+    <tag k='location' v='B1-R2-D10-K16' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-386' action='modify' visible='true' lat='0.02454492449' lon='0.06239806655'>
+    <tag k='_id' v='189' />
+    <tag k='icon' v='coffee' />
+    <tag k='loc_name' v='Green Smoothies' />
+    <tag k='location' v='B1-R2-D9-K1' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-384' action='modify' visible='true' lat='0.03610064784' lon='0.0625976485'>
+    <tag k='_id' v='188' />
+    <tag k='icon' v='restaurant' />
+    <tag k='loc_name' v='Kodo BBQ' />
+    <tag k='location' v='B1-R2-(C8-C9)-23' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-382' action='modify' visible='true' lat='0.02842716977' lon='0.0580176204'>
+    <tag k='_id' v='187' />
+    <tag k='icon' v='restaurant' />
+    <tag k='loc_name' v='Lotteria' />
+    <tag k='location' v='B1-R2-D8-2' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-380' action='modify' visible='true' lat='0.02550271189' lon='0.05814553125'>
+    <tag k='_id' v='186' />
+    <tag k='icon' v='coffee' />
+    <tag k='loc_name' v='Paloma Cafe&apos;' />
+    <tag k='location' v='B1-R2-D8-1' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-378' action='modify' visible='true' lat='0.05117141078' lon='0.07465774648'>
+    <tag k='_id' v='185' />
+    <tag k='icon' v='restaurant' />
+    <tag k='loc_name' v='Sing Buffet' />
+    <tag k='location' v='B1-R2-B9-14' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-376' action='modify' visible='true' lat='0.02623701556' lon='0.03219583423'>
+    <tag k='_id' v='184' />
+    <tag k='icon' v='coffee' />
+    <tag k='loc_name' v='Maxx Cafe&apos;' />
+    <tag k='location' v='B1-R3-D5-K2' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-374' action='modify' visible='true' lat='0.01831930621' lon='0.04522174416'>
+    <tag k='_id' v='183' />
+    <tag k='icon' v='restaurant' />
+    <tag k='loc_name' v='Paris Baguette' />
+    <tag k='location' v='B1-R3-E7-K5' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-372' action='modify' visible='true' lat='0.02178248942' lon='0.03792910929'>
+    <tag k='_id' v='182' />
+    <tag k='icon' v='restaurant' />
+    <tag k='loc_name' v='Yo Creamie' />
+    <tag k='location' v='B1-R3-E6-K3' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-370' action='modify' visible='true' lat='0.02093725854' lon='0.06290888655'>
+    <tag k='_id' v='181' />
+    <tag k='icon' v='toys' />
+    <tag k='loc_name' v='Crown space' />
+    <tag k='location' v='B1-R4-E9-55' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-368' action='modify' visible='true' lat='0.01614013497' lon='0.0716452181'>
+    <tag k='_id' v='180' />
+    <tag k='icon' v='toys' />
+    <tag k='loc_name' v='Humana' />
+    <tag k='location' v='B1-R4-E10-K57' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-366' action='modify' visible='true' lat='0.01348031444' lon='0.06770648447'>
+    <tag k='_id' v='179' />
+    <tag k='icon' v='toys' />
+    <tag k='loc_name' v='Kid&apos;s Kingdom' />
+    <tag k='location' v='B1-R4-F9-65' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-364' action='modify' visible='true' lat='0.01787233874' lon='0.04981912413'>
+    <tag k='_id' v='178' />
+    <tag k='icon' v='toys' />
+    <tag k='loc_name' v='Mama bebe' />
+    <tag k='location' v='B1-R4-E7-50' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-362' action='modify' visible='true' lat='0.01295569644' lon='0.05863076908'>
+    <tag k='_id' v='177' />
+    <tag k='icon' v='toys' />
+    <tag k='loc_name' v='My Kingdom' />
+    <tag k='location' v='B1-R4-F8-40' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-360' action='modify' visible='true' lat='0.01295569644' lon='0.0549911766'>
+    <tag k='_id' v='176' />
+    <tag k='icon' v='toys' />
+    <tag k='loc_name' v='Sunkids and Toptoys' />
+    <tag k='location' v='B1-R4-F8-42' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-358' action='modify' visible='true' lat='0.01774463374' lon='0.0551827341'>
+    <tag k='_id' v='175' />
+    <tag k='icon' v='toys' />
+    <tag k='loc_name' v='Sunshine' />
+    <tag k='location' v='B1-R4-E8-47' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-356' action='modify' visible='true' lat='-0.02554899609' lon='0.03215817807'>
+    <tag k='_id' v='174' />
+    <tag k='icon' v='supermarket' />
+    <tag k='loc_name' v='Robins' />
+    <tag k='location' v='B1-R6-(J-N)-(5-9)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-354' action='modify' visible='true' lat='0.03729685317' lon='0.0340601463'>
+    <tag k='_id' v='173' />
+    <tag k='icon' v='games' />
+    <tag k='loc_name' v='Vinperlland games' />
+    <tag k='location' v='B1-R3-D5-5' />
+    <tag k='location_type' v='play' />
+    <tag k='visible' v='false' />
+  </node>
+  <node id='-352' action='modify' visible='true' lat='0.02729058169' lon='0.04758267198'>
+    <tag k='_id' v='172' />
+    <tag k='icon' v='games' />
+    <tag k='loc_name' v='KizCiti' />
+    <tag k='location' v='B1-R3-D7-9' />
+    <tag k='location_type' v='play' />
+  </node>
+  <node id='-350' action='modify' visible='true' lat='0.03920916008' lon='0.024547525'>
+    <tag k='_id' v='171' />
+    <tag k='icon' v='games' />
+    <tag k='loc_name' v='Vinperlland bowling' />
+    <tag k='location' v='B1-R3-D5-5' />
+    <tag k='location_type' v='play' />
+    <tag k='visible' v='false' />
+  </node>
+  <node id='-348' action='modify' visible='true' lat='0.0405386075' lon='0.03601875985'>
+    <tag k='_id' v='170' />
+    <tag k='icon' v='games' />
+    <tag k='loc_name' v='Vinperlland games' />
+    <tag k='location' v='B1-R3-D5-5' />
+    <tag k='location_type' v='play' />
+    <tag k='visible' v='false' />
+  </node>
+  <node id='-346' action='modify' visible='true' lat='0.04893311786' lon='0.02933353689'>
+    <tag k='_id' v='169' />
+    <tag k='icon' v='games' />
+    <tag k='loc_name' v='Vinperlland games' />
+    <tag k='location' v='B1-R3-D5-5' />
+    <tag k='location_type' v='play' />
+    <tag k='visible' v='false' />
+  </node>
+  <node id='-344' action='modify' visible='true' lat='0.0486292442' lon='0.0334358328'>
+    <tag k='_id' v='168' />
+    <tag k='icon' v='games' />
+    <tag k='loc_name' v='Vinperlland games' />
+    <tag k='location' v='B1-R3-D5-5' />
+    <tag k='location_type' v='play' />
+    <tag k='visible' v='false' />
+  </node>
+  <node id='-342' action='modify' visible='true' lat='0.04642616012' lon='0.02523124098'>
+    <tag k='_id' v='167' />
+    <tag k='icon' v='games' />
+    <tag k='loc_name' v='Vinperlland games' />
+    <tag k='location' v='B1-R3-D5-5' />
+    <tag k='location_type' v='play' />
+    <tag k='visible' v='false' />
+  </node>
+  <node id='-340' action='modify' visible='true' lat='0.04398882736' lon='0.02424365123'>
+    <tag k='_id' v='166' />
+    <tag k='icon' v='games' />
+    <tag k='loc_name' v='Vinperlland games' />
+    <tag k='location' v='B1-R3-D5-5' />
+    <tag k='location_type' v='play' />
+    <tag k='visible' v='false' />
+  </node>
+  <node id='-338' action='modify' visible='true' lat='0.04559050752' lon='0.01216466883'>
+    <tag k='_id' v='165' />
+    <tag k='icon' v='games' />
+    <tag k='loc_name' v='Vinperlland games' />
+    <tag k='location' v='B1-R3-D5-5' />
+    <tag k='location_type' v='play' />
+  </node>
+  <node id='-336' action='modify' visible='true' lat='0.03116210856' lon='0.0327859541'>
+    <tag k='_id' v='164' />
+    <tag k='icon' v='games' />
+    <tag k='loc_name' v='Vinperlland games' />
+    <tag k='location' v='B1-R3-D5-5' />
+    <tag k='location_type' v='play' />
+  </node>
+  <node id='-334' action='modify' visible='true' lat='0.04276233224' lon='0.03050439869'>
+    <tag k='_id' v='163' />
+    <tag k='icon' v='games' />
+    <tag k='loc_name' v='Vinperlland games' />
+    <tag k='location' v='B1-R3-D5-5' />
+    <tag k='location_type' v='play' />
+    <tag k='visible' v='true' />
+  </node>
+  <node id='-332' action='modify' visible='true' lat='0.02857837508' lon='0.01116242346'>
+    <tag k='_id' v='162' />
+    <tag k='icon' v='info' />
+    <tag k='loc_name' v='Quầy thông tin' />
+    <tag k='location_type' v='info' />
+  </node>
+  <node id='-330' action='modify' visible='true' lat='0.03077084218' lon='-0.00681933385'>
+    <tag k='_id' v='161' />
+    <tag k='icon' v='coffee' />
+    <tag k='loc_name' v='Le Grape' />
+    <tag k='location' v='B1-R1-C1-26' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-328' action='modify' visible='true' lat='0.02502598664' lon='-0.0069013848'>
+    <tag k='_id' v='160' />
+    <tag k='icon' v='coffee' />
+    <tag k='loc_name' v='My Corner' />
+    <tag k='location' v='B1-R1-D2-(27-29)' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-326' action='modify' visible='true' lat='0.02539313865' lon='0.0036862964'>
+    <tag k='_id' v='159' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Giovani' />
+    <tag k='location' v='B1-R5-E2-(38-39)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-324' action='modify' visible='true' lat='0.02573499661' lon='0.00737076587'>
+    <tag k='_id' v='158' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-322' action='modify' visible='true' lat='0.02545560551' lon='0.01313407261'>
+    <tag k='_id' v='157' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Owen' />
+    <tag k='location' v='B1-R3-E3-1' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-320' action='modify' visible='true' lat='0.02563631145' lon='0.01865561459'>
+    <tag k='_id' v='156' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Sport mart' />
+    <tag k='location' v='B1-R3-E3-2' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-318' action='modify' visible='true' lat='0.02545886612' lon='0.02311518069'>
+    <tag k='_id' v='155' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Hoàng Phúc' />
+    <tag k='location' v='B1-R3-E4-3' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-316' action='modify' visible='true' lat='0.02151097161' lon='0.01322890333'>
+    <tag k='_id' v='154' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Pabini' />
+    <tag k='location' v='B1-R3-E3-23' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-314' action='modify' visible='true' lat='0.01964812586' lon='0.01317380015'>
+    <tag k='_id' v='153' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Vicenzo Zeno' />
+    <tag k='location' v='B1-R3-E3-24' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-312' action='modify' visible='true' lat='0.01964812586' lon='0.01754437198'>
+    <tag k='_id' v='152' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Gurkha' />
+    <tag k='location' v='B1-R3-E3-22' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-310' action='modify' visible='true' lat='0.01513302433' lon='-0.01101238681'>
+    <tag k='_id' v='151' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Vincy' />
+    <tag k='location' v='B1-R5-E1-2' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-308' action='modify' visible='true' lat='0.01322298961' lon='-0.01102024938'>
+    <tag k='_id' v='150' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Narsis' />
+    <tag k='location' v='B1-R5-F1-3' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-306' action='modify' visible='true' lat='0.01196851188' lon='-0.01115578602'>
+    <tag k='_id' v='149' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Sox box' />
+    <tag k='location' v='B1-R5-F1-4' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-304' action='modify' visible='true' lat='0.01074806827' lon='-0.01116358875'>
+    <tag k='_id' v='148' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Avellino' />
+    <tag k='location' v='B1-R5-F1-5' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-302' action='modify' visible='true' lat='0.0079903398' lon='-0.01133364042'>
+    <tag k='_id' v='147' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='WT' />
+    <tag k='location' v='B1-R5-F1-7' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-300' action='modify' visible='true' lat='-0.0016906206' lon='-0.01046250874'>
+    <tag k='_id' v='146' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Ninomaxx Concept' />
+    <tag k='location' v='B1-R5-G1-(9-10)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-298' action='modify' visible='true' lat='0.00582168102' lon='-0.01145173809'>
+    <tag k='_id' v='145' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Bever Hills Polo Club' />
+    <tag k='location' v='B1-R5-F1-(8-9)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-296' action='modify' visible='true' lat='-0.00335292706' lon='-0.00217718788'>
+    <tag k='_id' v='144' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='The Blues' />
+    <tag k='location' v='B1-R5-G(2-4)-(11-15)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-294' visible='true' lat='0.00276985081' lon='0.00937024278'>
+    <tag k='_id' v='143' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='The Blues' />
+    <tag k='location' v='B1-R5-G(2-4)-(11-15)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-292' action='modify' visible='true' lat='0.00350383529' lon='0.01443087263'>
+    <tag k='_id' v='142' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='The Blues' />
+    <tag k='location' v='B1-R5-G(2-4)-(11-15)' />
+    <tag k='location_type' v='shop' />
+    <tag k='visible' v='false' />
+  </node>
+  <node id='-290' action='modify' visible='true' lat='-0.00420517927' lon='0.02145231061'>
+    <tag k='_id' v='141' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='The Blues' />
+    <tag k='location' v='B1-R5-G(2-4)-(11-15)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-288' action='modify' visible='true' lat='-0.00186584066' lon='0.02117800005'>
+    <tag k='_id' v='140' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Anta' />
+    <tag k='location' v='B1-R5-G4-16' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-286' action='modify' visible='true' lat='0.00069484274' lon='0.02122766556'>
+    <tag k='_id' v='139' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='361' />
+    <tag k='location' v='B1-R5-G4-17' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-284' action='modify' visible='true' lat='0.0031545748' lon='0.02125526158'>
+    <tag k='_id' v='138' />
+    <tag k='icon' v='shoes' />
+    <tag k='loc_name' v='Dr Martens' />
+    <tag k='location' v='B1-R5-G4-18' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-282' action='modify' visible='true' lat='0.00576432873' lon='0.02150814311'>
+    <tag k='_id' v='137' />
+    <tag k='icon' v='shoes' />
+    <tag k='loc_name' v='Hoàng Phúc' />
+    <tag k='location' v='B1-R5-G4-19' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-280' action='modify' visible='true' lat='0.01771721012' lon='-0.00713834869'>
+    <tag k='_id' v='136' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Winny' />
+    <tag k='location' v='B1-R5-E1-30' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-278' action='modify' visible='true' lat='0.01292699577' lon='-0.00702245641'>
+    <tag k='_id' v='135' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='LenLink' />
+    <tag k='location' v='B1-R5-F1-28' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-276' action='modify' visible='true' lat='0.01296562653' lon='-0.0003779653'>
+    <tag k='_id' v='134' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Canifa' />
+    <tag k='location' v='B1-R5-F2-26' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-274' action='modify' visible='true' lat='0.01736953328' lon='-0.00026207301'>
+    <tag k='_id' v='133' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Carjesta' />
+    <tag k='location' v='B1-R5-E2-32' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-272' action='modify' visible='true' lat='0.015476626' lon='0.00255797264'>
+    <tag k='_id' v='132' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Sankelloff' />
+    <tag k='location' v='B1-R5-E3-33' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-270' action='modify' visible='true' lat='0.01551370569' lon='0.00494429183'>
+    <tag k='_id' v='131' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Bolzano' />
+    <tag k='location' v='B1-R5-E3-34' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-268' action='modify' visible='true' lat='0.01283673052' lon='0.00516282042'>
+    <tag k='_id' v='130' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='VID Fashion' />
+    <tag k='location' v='B1-R5-F3-24' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-266' action='modify' visible='true' lat='0.01556833784' lon='0.00778516352'>
+    <tag k='_id' v='129' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Lare boss' />
+    <tag k='location' v='B1-R5-E3-35' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-264' action='modify' visible='true' lat='0.01261820194' lon='0.01160941388'>
+    <tag k='_id' v='128' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Ivy Moda' />
+    <tag k='location' v='B1-R5-F3-(21-22)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-262' action='modify' visible='true' lat='0.01567760213' lon='0.01330301046'>
+    <tag k='_id' v='127' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Charminglys' />
+    <tag k='location' v='B1-R5-E4-37' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-260' action='modify' visible='true' lat='0.01578686642' lon='0.01789211089'>
+    <tag k='_id' v='126' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Việt Tiến' />
+    <tag k='location' v='B1-R3-E3-23' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-258' action='modify' visible='true' lat='0.01250893764' lon='0.02127930406'>
+    <tag k='_id' v='125' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Dockers' />
+    <tag k='location' v='B1-R3-F4-19' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-256' action='modify' visible='true' lat='0.00644437909' lon='-0.00697852995'>
+    <tag k='_id' v='124' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Cafe La Boutique' />
+    <tag k='location' v='B1-R5-F1-K2' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-254' action='modify' visible='true' lat='0.00339254888' lon='0.00294957596'>
+    <tag k='_id' v='123' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Waterman Paris' />
+    <tag k='location' v='B1-R5-G2-K4' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-252' action='modify' visible='true' lat='0.00346981041' lon='-0.00647633004'>
+    <tag k='_id' v='122' />
+    <tag k='icon' v='elevator' />
+    <tag k='location_type' v='elevator' />
+  </node>
+  <node id='-250' action='modify' visible='true' lat='0.00590354842' lon='-0.00411985354'>
+    <tag k='_id' v='121' />
+    <tag k='icon' v='elevator' />
+    <tag k='location_type' v='elevator' />
+  </node>
+  <node id='-248' action='modify' visible='true' lat='0.01003703994' lon='-0.00686263766'>
+    <tag k='_id' v='120' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-246' action='modify' visible='true' lat='0.00041798019' lon='0.00090214556'>
+    <tag k='_id' v='119' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-244' action='modify' visible='true' lat='0.0029676105' lon='0.00472659102'>
+    <tag k='_id' v='118' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-242' action='modify' visible='true' lat='0.00404927184' lon='-0.0147046824'>
+    <tag k='_id' v='117' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-240' action='modify' visible='true' lat='-0.0059669629' lon='0.0216262813'>
+    <tag k='_id' v='116' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-238' action='modify' visible='true' lat='-0.00782445591' lon='0.02168091345'>
+    <tag k='_id' v='115' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-236' action='modify' visible='true' lat='0.04161852901' lon='-0.00603350612'>
+    <tag k='_id' v='114' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-234' action='modify' visible='true' lat='-0.01837504082' lon='0.02147159662'>
+    <tag k='_id' v='113' />
+    <tag k='icon' v='shoes' />
+    <tag k='loc_name' v='Converse' />
+    <tag k='location' v='B1-R6-I4-4' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-232' action='modify' visible='true' lat='-0.03093832719' lon='0.0216675137'>
+    <tag k='_id' v='112' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-230' action='modify' visible='true' lat='-0.0210019325' lon='0.02139433509'>
+    <tag k='_id' v='111' />
+    <tag k='icon' v='shoes' />
+    <tag k='loc_name' v='Lacoste shoes' />
+    <tag k='location' v='B1-R6-I4-5' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-228' action='modify' visible='true' lat='-0.02625571572' lon='0.02154885814'>
+    <tag k='_id' v='110' />
+    <tag k='icon' v='shoes' />
+    <tag k='loc_name' v='Geox' />
+    <tag k='location' v='B1-R6-J4-7' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-226' action='modify' visible='true' lat='-0.02880534574' lon='0.02154885814'>
+    <tag k='_id' v='109' />
+    <tag k='icon' v='shoes' />
+    <tag k='loc_name' v='Rockport' />
+    <tag k='location' v='B1-R6-J4-8' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-224' action='modify' visible='true' lat='-0.03342999775' lon='0.02166593815'>
+    <tag k='_id' v='108' />
+    <tag k='icon' v='shoes' />
+    <tag k='loc_name' v='Vans' />
+    <tag k='location' v='B1-R6-K4-9' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-222' action='modify' visible='true' lat='-0.03622245089' lon='0.02147159662'>
+    <tag k='_id' v='107' />
+    <tag k='icon' v='shoes' />
+    <tag k='loc_name' v='Borse Morgan' />
+    <tag k='location' v='B1-R6-K4-10' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-220' action='modify' visible='true' lat='-0.03181854477' lon='0.03159285633'>
+    <tag k='_id' v='106' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Big Star' />
+    <tag k='location' v='B1-R6-J5-40' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-218' action='modify' visible='true' lat='-0.03682261327' lon='0.03172786605'>
+    <tag k='_id' v='105' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Palladium' />
+    <tag k='location' v='B1-R6-K5-38' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-216' action='modify' visible='true' lat='-0.03846323258' lon='0.03180591938'>
+    <tag k='_id' v='104' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Gino Rossi' />
+    <tag k='location' v='B1-R6-K5-37' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-214' action='modify' visible='true' lat='-0.03979512947' lon='0.03175467352'>
+    <tag k='_id' v='103' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Franco Sarto' />
+    <tag k='location' v='B1-R6-K5-36' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-212' action='modify' visible='true' lat='-0.04168803634' lon='0.03183193504'>
+    <tag k='_id' v='102' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Aldo' />
+    <tag k='location' v='B1-R6-L5-35' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-210' action='modify' visible='true' lat='-0.04399026977' lon='0.03181565309'>
+    <tag k='_id' v='101' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Ecco' />
+    <tag k='location' v='B1-R6-L5-34' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-208' action='modify' visible='true' lat='-0.05191917776' lon='0.02495471729'>
+    <tag k='loc_name' v='Thác Vũ Môn' />
+    <tag k='location' v='B1-R6-M4' />
+    <tag k='location_type' v='play' />
+  </node>
+  <node id='-206' action='modify' visible='true' lat='-0.0598425008' lon='0.02646600371'>
+    <tag k='_id' v='100' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='US Polo' />
+    <tag k='location' v='B1-R6-N5-30' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-204' action='modify' visible='true' lat='-0.05996870849' lon='0.0236976497'>
+    <tag k='_id' v='99' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-202' action='modify' visible='true' lat='-0.05953165155' lon='0.0170871598'>
+    <tag k='_id' v='98' />
+    <tag k='icon' v='services' />
+    <tag k='loc_name' v='Hair lab' />
+    <tag k='location' v='B1-R6-M3-20' />
+    <tag k='location_type' v='healthcare' />
+  </node>
+  <node id='-200' action='modify' visible='true' lat='-0.05975572797' lon='0.00726870841'>
+    <tag k='_id' v='97' />
+    <tag k='icon' v='services' />
+    <tag k='loc_name' v='Club One' />
+    <tag k='location' v='B1-R6-(L,M-2,3)-(K3-K4-14-15))' />
+    <tag k='location_type' v='healthcare' />
+  </node>
+  <node id='-198' action='modify' visible='true' lat='-0.05519730032' lon='0.0056462164'>
+    <tag k='_id' v='96' />
+    <tag k='icon' v='services' />
+    <tag k='loc_name' v='Club One' />
+    <tag k='location' v='B1-R6-(L,M-2,3)-(K3-K4-14-15))' />
+    <tag k='location_type' v='healthcare' />
+  </node>
+  <node id='-196' action='modify' visible='true' lat='-0.05523593106' lon='0.00097189416'>
+    <tag k='_id' v='95' />
+    <tag k='icon' v='services' />
+    <tag k='loc_name' v='Club One' />
+    <tag k='location' v='B1-R6-(L,M-2,3)-(K3-K4-14-15))' />
+    <tag k='location_type' v='healthcare' />
+  </node>
+  <node id='-194' action='modify' visible='true' lat='-0.0492481654' lon='0.00618704707'>
+    <tag k='_id' v='94' />
+    <tag k='icon' v='services' />
+    <tag k='loc_name' v='Club One' />
+    <tag k='location' v='B1-R6-(L,M-2,3)-(K3-K4-14-15))' />
+    <tag k='location_type' v='healthcare' />
+  </node>
+  <node id='-192' action='modify' visible='true' lat='-0.04658264374' lon='0.01055232321'>
+    <tag k='_id' v='93' />
+    <tag k='icon' v='services' />
+    <tag k='loc_name' v='Club One' />
+    <tag k='location' v='B1-R6-(L,M-2,3)-(K3-K4-14-15))' />
+    <tag k='location_type' v='healthcare' />
+  </node>
+  <node id='-190' action='modify' visible='true' lat='-0.04939137371' lon='0.01972712924'>
+    <tag k='_id' v='92' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='KB' />
+    <tag k='location' v='B1-R6-L4-(28-29)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-188' action='modify' visible='true' lat='-0.04935274296' lon='0.01582542226'>
+    <tag k='_id' v='91' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Manmont' />
+    <tag k='location' v='B1-R6-L4-27' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-186' action='modify' visible='true' lat='-0.0550700934' lon='0.01605720683'>
+    <tag k='_id' v='90' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Động lực' />
+    <tag k='location' v='B1-R6-L4-24' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-184' action='modify' visible='true' lat='-0.05216768691' lon='0.01782590487'>
+    <tag k='_id' v='89' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-182' action='modify' visible='true' lat='-0.05303148545' lon='0.00696109216'>
+    <tag k='_id' v='88' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-180' action='modify' visible='true' lat='-0.05392693934' lon='0.03275941178'>
+    <tag k='_id' v='87' />
+    <tag k='icon' v='supermarket' />
+    <tag k='loc_name' v='Robins' />
+    <tag k='location' v='B1-R6-(J-N)-(5-9)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-178' visible='true' lat='-0.02023777971' lon='0.03511733754'>
+    <tag k='_id' v='86' />
+    <tag k='icon' v='supermarket' />
+    <tag k='loc_name' v='Robins' />
+    <tag k='location' v='B1-R6-(J-N)-(5-9)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-176' visible='true' lat='-0.01998891881' lon='0.06112330324'>
+    <tag k='_id' v='85' />
+    <tag k='icon' v='supermarket' />
+    <tag k='loc_name' v='Robins' />
+    <tag k='location' v='B1-R6-(J-N)-(5-9)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-174' action='modify' visible='true' lat='-0.02004736005' lon='0.04347140636'>
+    <tag k='_id' v='84' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Eva de Eva' />
+    <tag k='location' v='B1-R6-I(6-7)-(43-45)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-172' action='modify' visible='true' lat='-0.01552871779' lon='0.02997342978'>
+    <tag k='_id' v='83' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-170' action='modify' visible='true' lat='0.0256755059' lon='0.03703880843'>
+    <tag k='_id' v='82' />
+    <tag k='icon' v='coffee' />
+    <tag k='loc_name' v='Aliavi' />
+    <tag k='location' v='B1-R3-D6-7' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-168' action='modify' visible='true' lat='0.02684982497' lon='0.04092862034'>
+    <tag k='_id' v='81' />
+    <tag k='icon' v='services' />
+    <tag k='loc_name' v='The Little Gym' />
+    <tag k='location' v='B1-R3-D6-8' />
+    <tag k='location_type' v='healthcare' />
+  </node>
+  <node id='-166' action='modify' visible='true' lat='0.02075273306' lon='0.03128525986'>
+    <tag k='_id' v='80' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='French Connection' />
+    <tag k='location' v='B1-R3-E5-11' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-164' action='modify' visible='true' lat='0.01521222929' lon='0.03125850866'>
+    <tag k='_id' v='79' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Lee' />
+    <tag k='location' v='B1-R3-F5-13' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-162' action='modify' visible='true' lat='0.0123087039' lon='0.03147847272'>
+    <tag k='_id' v='78' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Replay' />
+    <tag k='location' v='B1-R3-F5-14' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-160' action='modify' visible='true' lat='0.00958114971' lon='0.03148472566'>
+    <tag k='_id' v='77' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Sisley' />
+    <tag k='location' v='B1-R3-F5-15' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-158' action='modify' visible='true' lat='0.0086353043' lon='0.034652208'>
+    <tag k='_id' v='76' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Birkenstock' />
+    <tag k='location' v='B1-R3-F5-16' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-156' action='modify' visible='true' lat='0.02083424354' lon='0.05268551319'>
+    <tag k='_id' v='75' />
+    <tag k='icon' v='toys' />
+    <tag k='loc_name' v='Hello Bebe' />
+    <tag k='location' v='B1-R4-(E7-E8)-(51-53)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-154' action='modify' visible='true' lat='0.01764266532' lon='0.05247789791'>
+    <tag k='_id' v='74' />
+    <tag k='icon' v='toys' />
+    <tag k='loc_name' v='Ninh Khương' />
+    <tag k='location' v='B1-R4-E7-49' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-152' action='modify' visible='true' lat='0.01767377293' lon='0.05381552534'>
+    <tag k='_id' v='73' />
+    <tag k='icon' v='toys' />
+    <tag k='loc_name' v='Isabella' />
+    <tag k='location' v='B1-R4-E7-48' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-150' action='modify' visible='true' lat='0.01764266532' lon='0.05655299541'>
+    <tag k='_id' v='72' />
+    <tag k='icon' v='toys' />
+    <tag k='loc_name' v='Bebe Joie' />
+    <tag k='location' v='B1-R4-E8-46' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-148' action='modify' visible='true' lat='0.0210333951' lon='0.0644854371'>
+    <tag k='_id' v='71' />
+    <tag k='icon' v='toys' />
+    <tag k='loc_name' v='Radix point baby' />
+    <tag k='location' v='B1-R4-E9-56' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-146' action='modify' visible='true' lat='0.01791561065' lon='0.06265384779'>
+    <tag k='_id' v='70' />
+    <tag k='icon' v='toys' />
+    <tag k='loc_name' v='Happy Tipi' />
+    <tag k='location' v='B1-R4-E9-61' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-144' action='modify' visible='true' lat='0.02057469997' lon='0.07202507409'>
+    <tag k='_id' v='69' />
+    <tag k='icon' v='toys' />
+    <tag k='loc_name' v='Hồng Hà' />
+    <tag k='location' v='B1-R4-E9-66' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-142' action='modify' visible='true' lat='0.01741450143' lon='0.07165724968'>
+    <tag k='_id' v='68' />
+    <tag k='icon' v='toys' />
+    <tag k='loc_name' v='Nameshop' />
+    <tag k='location' v='B1-R4-E10-K56' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-140' action='modify' visible='true' lat='0.01509184103' lon='0.07164018843'>
+    <tag k='_id' v='67' />
+    <tag k='icon' v='toys' />
+    <tag k='loc_name' v='Misamisu' />
+    <tag k='location' v='B1-R4-E10-K58' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-138' action='modify' visible='true' lat='0.01371822771' lon='0.0716645801'>
+    <tag k='_id' v='66' />
+    <tag k='icon' v='toys' />
+    <tag k='loc_name' v='Etic' />
+    <tag k='location' v='B1-R4-F10-K59' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-136' action='modify' visible='true' lat='0.01238731627' lon='0.07165545793'>
+    <tag k='_id' v='65' />
+    <tag k='icon' v='toys' />
+    <tag k='loc_name' v='Mother garden' />
+    <tag k='location' v='B1-R4-F10-K60' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-134' action='modify' visible='true' lat='0.00741672411' lon='0.07228277389'>
+    <tag k='_id' v='64' />
+    <tag k='icon' v='toys' />
+    <tag k='loc_name' v='Nhà sách Trí Tuệ' />
+    <tag k='location' v='B1-R4-E10-67' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-132' action='modify' visible='true' lat='0.01330490615' lon='0.06272000816'>
+    <tag k='_id' v='63' />
+    <tag k='icon' v='toys' />
+    <tag k='loc_name' v='Agabang Gallery' />
+    <tag k='location' v='B1-R4-F9-63' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-130' action='modify' visible='true' lat='0.01006971431' lon='0.06346659091'>
+    <tag k='_id' v='62' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Aokang' />
+    <tag k='location' v='B1-R4-F9-62' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-128' action='modify' visible='true' lat='0.00669068563' lon='0.06728996923'>
+    <tag k='_id' v='61' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Muchas' />
+    <tag k='location' v='B1-R4-G9-K54' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-126' action='modify' visible='true' lat='0.00863769123' lon='0.06685942054'>
+    <tag k='_id' v='60' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-124' action='modify' visible='true' lat='0.00758186379' lon='0.06848715452'>
+    <tag k='_id' v='59' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-122' action='modify' visible='true' lat='0.00347231003' lon='0.06377992382'>
+    <tag k='_id' v='58' />
+    <tag k='icon' v='elevator' />
+    <tag k='location_type' v='elevator' />
+  </node>
+  <node id='-120' action='modify' visible='true' lat='0.00038181511' lon='0.06164815952'>
+    <tag k='_id' v='57' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Muchas' />
+    <tag k='location' v='B1-R4-G9-K53' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-118' action='modify' visible='true' lat='-0.00244827474' lon='0.06248434667'>
+    <tag k='_id' v='56' />
+    <tag k='icon' v='perfumery' />
+    <tag k='loc_name' v='Shiseido' />
+    <tag k='location' v='B1-R3-F8-29' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-116' action='modify' visible='true' lat='-0.00247938236' lon='0.06012016797'>
+    <tag k='_id' v='55' />
+    <tag k='icon' v='perfumery' />
+    <tag k='loc_name' v='Clede Peau' />
+    <tag k='location' v='B1-R3-F8-28' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-114' action='modify' visible='true' lat='-0.00251048997' lon='0.05473855066'>
+    <tag k='_id' v='54' />
+    <tag k='icon' v='jewelry' />
+    <tag k='loc_name' v='Việt Tín' />
+    <tag k='location' v='B1-R4-F8-(24-27)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-112' action='modify' visible='true' lat='-0.00245793264' lon='0.04412735657'>
+    <tag k='_id' v='53' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Solas' />
+    <tag k='location' v='B1-R4-F7-(20-23)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-110' action='modify' visible='true' lat='0.00559970838' lon='0.0403160506'>
+    <tag k='_id' v='52' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Casualist' />
+    <tag k='location' v='B1-R4-E8-17' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-108' action='modify' visible='true' lat='0.00574588278' lon='0.03098957482'>
+    <tag k='_id' v='51' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Maxx Sport' />
+    <tag k='location' v='B1-R4-F5-1' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-106' action='modify' visible='true' lat='0.00072115014' lon='0.0312019909'>
+    <tag k='_id' v='50' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Adidas' />
+    <tag k='location' v='B1-R4-F5-5' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-104' action='modify' visible='true' lat='-0.00244831494' lon='0.03172727413'>
+    <tag k='_id' v='49' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='United Color of Benetton' />
+    <tag k='location' v='B1-R4-F5-(7-8)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-102' action='modify' visible='true' lat='0.00075225775' lon='0.03493490464'>
+    <tag k='_id' v='48' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Adidas' />
+    <tag k='location' v='B1-R4-F5-6' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-100' action='modify' visible='true' lat='0.00583385265' lon='0.03563916891'>
+    <tag k='_id' v='47' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Lining' />
+    <tag k='location' v='B1-R4-F5-4' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-98' action='modify' visible='true' lat='0.00278530644' lon='0.03563916891'>
+    <tag k='_id' v='46' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Reebook' />
+    <tag k='location' v='B1-R4-F5-4' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-96' action='modify' visible='true' lat='0.00408831466' lon='0.03430129313'>
+    <tag k='_id' v='45' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Maxx Sport' />
+    <tag k='location' v='B1-R4-F5-3' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-94' action='modify' visible='true' lat='-0.00719231873' lon='0.03165849002'>
+    <tag k='_id' v='44' />
+    <tag k='icon' v='perfumery' />
+    <tag k='loc_name' v='Paris France' />
+    <tag k='location' v='B1-R4-G5-9' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-92' action='modify' visible='true' lat='-0.01292464025' lon='0.03160860064'>
+    <tag k='_id' v='43' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Private Sale' />
+    <tag k='location' v='B1-R4-G5-13' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-90' action='modify' visible='true' lat='-0.01294630337' lon='0.03528135279'>
+    <tag k='_id' v='42' />
+    <tag k='icon' v='jewelry' />
+    <tag k='loc_name' v='Watch Gallery' />
+    <tag k='location' v='B1-R4-G5-14' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-88' action='modify' visible='true' lat='-0.01584982875' lon='0.03580926651'>
+    <tag k='_id' v='41' />
+    <tag k='icon' v='jewelry' />
+    <tag k='loc_name' v='CAO' />
+    <tag k='location' v='B1-R4-G5-16' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-86' action='modify' visible='true' lat='-0.00595144663' lon='0.0387567848'>
+    <tag k='_id' v='40' />
+    <tag k='icon' v='jewelry' />
+    <tag k='loc_name' v='Prima Gold' />
+    <tag k='location' v='B1-R4-H7-K1' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-84' action='modify' visible='true' lat='-0.0107466629' lon='0.03902074166'>
+    <tag k='_id' v='39' />
+    <tag k='icon' v='jewelry' />
+    <tag k='loc_name' v='Eyewear Hut' />
+    <tag k='location' v='B1-R4-H7-K6' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-82' action='modify' visible='true' lat='-0.01259436089' lon='0.039636641'>
+    <tag k='_id' v='38' />
+    <tag k='icon' v='jewelry' />
+    <tag k='loc_name' v='Vàng Minh Thu' />
+    <tag k='location' v='B1-R4-H7-K8' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-80' action='modify' visible='true' lat='-0.01483799415' lon='0.03946066976'>
+    <tag k='_id' v='37' />
+    <tag k='icon' v='jewelry' />
+    <tag k='loc_name' v='Grand opties' />
+    <tag k='location' v='B1-R4-I6-K9' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-78' action='modify' visible='true' lat='-0.00907493613' lon='0.04245218086'>
+    <tag k='_id' v='36' />
+    <tag k='icon' v='jewelry' />
+    <tag k='loc_name' v='Mido' />
+    <tag k='location' v='B1-R4-H7-K20' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-76' action='modify' visible='true' lat='-0.00955885704' lon='0.0439039436'>
+    <tag k='_id' v='35' />
+    <tag k='icon' v='jewelry' />
+    <tag k='loc_name' v='Binli' />
+    <tag k='location' v='B1-R4-H7-K21' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-74' action='modify' visible='true' lat='-0.01642173526' lon='0.04570764882'>
+    <tag k='_id' v='34' />
+    <tag k='icon' v='jewelry' />
+    <tag k='loc_name' v='Galle watch' />
+    <tag k='location' v='B1-R4-I6-K11' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-72' action='modify' visible='true' lat='-0.01272633932' lon='0.04680746908'>
+    <tag k='_id' v='33' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-70' action='modify' visible='true' lat='-0.00916292175' lon='0.05133872854'>
+    <tag k='_id' v='32' />
+    <tag k='icon' v='exit' />
+    <tag k='location_type' v='exit' />
+  </node>
+  <node id='-68' action='modify' visible='true' lat='-0.01136256223' lon='0.04601559849'>
+    <tag k='_id' v='31' />
+    <tag k='icon' v='coffee' />
+    <tag k='loc_name' v='Merita Coffee' />
+    <tag k='location' v='B1-R4-H6-K26' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-66' action='modify' visible='true' lat='-0.00894295771' lon='0.05635390891'>
+    <tag k='_id' v='30' />
+    <tag k='icon' v='perfumery' />
+    <tag k='loc_name' v='Vyes Rocher' />
+    <tag k='location' v='B1-R4-H8-K34' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-64' action='modify' visible='true' lat='-0.0112305838' lon='0.05551804551'>
+    <tag k='_id' v='29' />
+    <tag k='icon' v='perfumery' />
+    <tag k='loc_name' v='Bourjois' />
+    <tag k='location' v='B1-R4-H8-K35' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-62' action='modify' visible='true' lat='-0.00524756167' lon='0.06880387422'>
+    <tag k='_id' v='28' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='F.O.S' />
+    <tag k='location' v='B1-R3-H9-(70-73)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-60' action='modify' visible='true' lat='0.03011177556' lon='0.03032244892'>
+    <tag k='_id' v='27' />
+    <tag k='icon' v='in' />
+    <tag k='location_type' v='in' />
+  </node>
+  <node id='-58' visible='true' lat='0.02538341871' lon='0.04761828257'>
+    <tag k='_id' v='26' />
+    <tag k='icon' v='in' />
+    <tag k='location_type' v='in' />
+  </node>
+  <node id='-56' action='modify' visible='true' lat='-0.02303588251' lon='0.03171512291'>
+    <tag k='_id' v='25' />
+    <tag k='icon' v='in' />
+    <tag k='location_type' v='in' />
+  </node>
+  <node id='-54' visible='true' lat='-0.05550963391' lon='0.03276911891'>
+    <tag k='_id' v='24' />
+    <tag k='icon' v='in' />
+    <tag k='location_type' v='in' />
+  </node>
+  <node id='-52' action='modify' visible='true' lat='0.03864986126' lon='0.01218835091'>
+    <tag k='_id' v='23' />
+    <tag k='icon' v='games' />
+    <tag k='loc_name' v='Vinperlland bowling' />
+    <tag k='location' v='B1-R3-D5-5' />
+    <tag k='location_type' v='play' />
+  </node>
+  <node id='-50' action='modify' visible='true' lat='0.03693268816' lon='0.02842344562'>
+    <tag k='_id' v='22' />
+    <tag k='icon' v='games' />
+    <tag k='loc_name' v='Vinperlland bowling' />
+    <tag k='location' v='B1-R3-D5-5' />
+    <tag k='location_type' v='play' />
+    <tag k='visible' v='false' />
+  </node>
+  <node id='-48' action='modify' visible='true' lat='0.03107314161' lon='0.02832253099'>
+    <tag k='_id' v='21' />
+    <tag k='icon' v='games' />
+    <tag k='loc_name' v='Vinperlland bowling' />
+    <tag k='location' v='B1-R3-D5-5' />
+    <tag k='location_type' v='play' />
+  </node>
+  <node id='-46' action='modify' visible='true' lat='0.00587859638' lon='0.05040039967'>
+    <tag k='_id' v='20' />
+    <tag k='icon' v='shoes' />
+    <tag k='loc_name' v='Bita&apos;s' />
+    <tag k='location' v='B1-R4-F8-33' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-44' action='modify' visible='true' lat='0.01031864312' lon='0.05174208505'>
+    <tag k='_id' v='19' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Giordano' />
+    <tag k='location' v='B1-R4-F8-(36-37)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-42' action='modify' visible='true' lat='0.01033815645' lon='0.05697165883'>
+    <tag k='_id' v='18' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Playless' />
+    <tag k='location' v='B1-R4-F8-(38-39)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-40' action='modify' visible='true' lat='0.00205735956' lon='0.07206878397'>
+    <tag k='_id' v='17' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Kelly Bùi' />
+    <tag k='location' v='B1-R4-F9-(68-69)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-38' action='modify' visible='true' lat='-0.01005864043' lon='0.06838079252'>
+    <tag k='_id' v='16' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='F.O.S' />
+    <tag k='location' v='B1-R3-H9-(70-73)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-36' action='modify' visible='true' lat='0.01546325144' lon='0.01030530768'>
+    <tag k='_id' v='15' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='Menhardrum &amp; Bertoli' />
+    <tag k='location' v='B1-R5-E3-36' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-34' action='modify' visible='true' lat='0.00038982404' lon='-0.00069675479'>
+    <tag k='_id' v='14' />
+    <tag k='icon' v='pen' />
+    <tag k='loc_name' v='Parker' />
+    <tag k='location' v='B1-R5-G2-K3' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-32' visible='true' lat='-0.00843807697' lon='0.03874998199'>
+    <tag k='_id' v='13' />
+    <tag k='icon' v='jewelry' />
+    <tag k='loc_name' v='As me Estelle' />
+    <tag k='location' v='B1-R4-H7-(K3-K5)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-30' action='modify' visible='true' lat='-0.01177590748' lon='0.04280210058'>
+    <tag k='_id' v='12' />
+    <tag k='icon' v='jewelry' />
+    <tag k='loc_name' v='Skagen &amp; Breo' />
+    <tag k='location' v='B1-R4-H6-(K17-K18)' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-28' action='modify' visible='true' lat='-0.00625363375' lon='0.04467538074'>
+    <tag k='_id' v='11' />
+    <tag k='icon' v='jewelry' />
+    <tag k='loc_name' v='Tissot &amp; Calvin Klein' />
+    <tag k='location' v='B1-R4-H7-K24' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-26' action='modify' visible='true' lat='-0.0071683523' lon='0.03505204027'>
+    <tag k='_id' v='10' />
+    <tag k='icon' v='perfumery' />
+    <tag k='loc_name' v='Make Up Forever' />
+    <tag k='location' v='B1-R4-G5-10' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-24' action='modify' visible='true' lat='-0.00720051481' lon='0.05887707963'>
+    <tag k='_id' v='9' />
+    <tag k='icon' v='perfumery' />
+    <tag k='loc_name' v='Orlane' />
+    <tag k='location' v='B1-R4-H8-K46' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-22' action='modify' visible='true' lat='0.04678497541' lon='-0.0078002887'>
+    <tag k='_id' v='8' />
+    <tag k='icon' v='restaurant' />
+    <tag k='loc_name' v='Nam Thanh' />
+    <tag k='location' v='B1-R1-B1-K5' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-20' action='modify' visible='true' lat='0.04920699546' lon='-0.00928680145' />
+  <node id='-18' action='modify' visible='true' lat='0.04550925707' lon='0.06337124179'>
+    <tag k='_id' v='7' />
+    <tag k='icon' v='restaurant' />
+    <tag k='loc_name' v='Carl&apos;s Junior' />
+    <tag k='location' v='B1-R2-(B8-B9)-(26-27)' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-16' action='modify' visible='true' lat='0.05699842254' lon='0.06811700313'>
+    <tag k='_id' v='6' />
+    <tag k='icon' v='restaurant' />
+    <tag k='loc_name' v='Grand brothers buffet' />
+    <tag k='location' v='B1-R2-B9-(12-13)' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-14' action='modify' visible='true' lat='0.04937087014' lon='0.05652518815'>
+    <tag k='_id' v='5' />
+    <tag k='icon' v='restaurant' />
+    <tag k='loc_name' v='MK' />
+    <tag k='location' v='B1-R2-B8-(9-10)' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-12' action='modify' visible='true' lat='0.0260490358' lon='0.02840942061'>
+    <tag k='_id' v='4' />
+    <tag k='icon' v='coffee' />
+    <tag k='loc_name' v='Nino Coffee' />
+    <tag k='location' v='B1-R3-D5-K1' />
+    <tag k='location_type' v='eat_drink' />
+  </node>
+  <node id='-10' action='modify' visible='true' lat='0.01317401003' lon='0.04984616505'>
+    <tag k='_id' v='3' />
+    <tag k='icon' v='toys' />
+    <tag k='loc_name' v='PSF' />
+    <tag k='location' v='B1-R4-F8-44' />
+    <tag k='location_type' v='shop' />
+  </node>
+  <node id='-8' action='modify' visible='true' lat='-0.00248245941' lon='0.03503834777'>
+    <tag k='_id' v='2' />
+    <tag k='icon' v='clothers' />
+    <tag k='loc_name' v='United Color of Benetton' />
+    <tag k='location' v='B1-R4-F5-(7-8)' />
+    <tag k='location_type' v='shop' />
+  </node>
+</osm>

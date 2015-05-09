@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginBottom="2dp" >
+
+    <ImageView
+        android:id="@+id/iv_big"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:contentDescription="@string/app_name"
+        android:scaleType="centerCrop"
+        android:src="@drawable/sample_promotion" />
+
+    <RelativeLayout
+        android:id="@+id/layout_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/iv_big"
+        android:background="#FFF" >
+
+        <LinearLayout
+            android:id="@+id/layout_desc_text"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="80dp"
+            android:layout_marginStart="80dp"
+            android:gravity="center_vertical"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="KFC Free nếm thử món mới"
+                android:textColor="#000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_promotion_time_small"
+                android:drawablePadding="5dp"
+                android:drawableStart="@drawable/ic_promotion_time_small"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="24/12/2014"
+                android:textColor="#9c9c9c"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/iv_btn_expand"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_margin="15dp"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/ic_store_arrow_down" />
+
+        <LinearLayout
+            android:id="@+id/layout_desc_expand"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/layout_desc_text"
+            android:background="@drawable/ic_promotion_detail"
+            android:minHeight="50dp"
+            android:orientation="vertical"
+            android:padding="5dp" >
+
+            <TextView
+                android:id="@+id/long_desc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Được áp dụng tại tất cả các cửa hàng KFC trên toàn quốc"
+                android:textColor="#FFF" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:layout_above="@id/layout_desc"
+        android:background="@drawable/drawer_shadow_top" />
+
+    <com.oic.sdk.vender.CircleImageView
+        android:id="@+id/iv_logo"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="230dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/sample_store_logo" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/drawer_shadow_bot" 
+        android:layout_alignParentBottom="true"/>
+	<ImageView 
+	    android:id="@+id/iv_new_promotion"
+	    android:layout_width="50dp"
+	    android:layout_height="50dp"
+	    android:src="@drawable/ic_new_promotion"
+	    android:contentDescription="@string/app_name"
+	    android:layout_alignParentRight="true"
+	    android:layout_alignParentEnd="true"
+	    android:background="@android:color/transparent"/>
+</RelativeLayout>

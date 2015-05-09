@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/abs_findbaby"
+        layout="@layout/abs_findbaby" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <com.oic.sdk.vender.CircleImageView
+            android:id="@+id/imv_avatar"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_margin="1dp"
+            android:background="@drawable/item_selector_gray"
+            android:contentDescription="@string/app_name"
+            android:padding="1dp"
+            android:onClick="btnClicked"
+            android:scaleType="centerCrop"
+            android:src="@drawable/logo_empty" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/edt_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/ten"
+                android:padding="10dp"
+                android:singleLine="true"
+                android:textColor="@android:color/black"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/edt_age"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/tuoi"
+                android:inputType="number"
+                android:padding="10dp"
+                android:singleLine="true"
+                android:textColor="@android:color/black"
+                android:textSize="18sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="end"
+                    android:paddingEnd="5dp"
+                    android:paddingLeft="0dp"
+                    android:paddingRight="5dp"
+                    android:paddingStart="0dp"
+                    android:text="@string/gioi_tinh"
+                    android:textSize="18sp" />
+
+                <ToggleButton
+                    android:id="@+id/toggle_gen"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:checked="true"
+                    android:onClick="btnClicked"
+                    android:hint="@string/gioi_tinh"
+                    android:text="@string/gioi_tinh"
+                    android:textOff="@string/female"
+                    android:textOn="@string/male" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/edt_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/chi_tiet"
+        android:gravity="top"
+        android:padding="5dp"
+        android:minLines="10"
+        android:textSize="18sp" />
+
+</LinearLayout>

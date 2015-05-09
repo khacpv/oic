@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100dp"
+    android:layout_height="100dp"
+    android:orientation="vertical" 
+    android:background="#fcda83"
+    android:gravity="center"
+    android:paddingTop="10dp">
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/app_name"
+        android:scaleType="fitCenter"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:src="@drawable/ic_menu_shop" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="center"
+        android:minHeight="?android:attr/listPreferredItemHeightSmall"
+        android:text="Mua sắm"
+        android:textAppearance="?android:attr/textAppearanceListItem"
+        android:textColor="#FFF"
+        android:singleLine="true"
+        android:textSize="14sp" />
+
+</LinearLayout>

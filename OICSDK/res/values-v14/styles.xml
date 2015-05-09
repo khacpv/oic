@@ -1,0 +1,27 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light"></style>
+
+    <style name="LineRemover" parent="android:Widget.Holo.ActionBar">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:displayOptions">showHome|homeAsUp|showTitle</item>
+        <item name="displayOptions">showHome|homeAsUp|showTitle</item>
+        <item name="android:icon">@android:color/transparent</item>
+        <item name="android:windowActionBarOverlay">false</item>
+        <item name="android:actionBarStyle">@style/LineRemover</item>
+        <item name="android:windowContentOverlay">@drawable/actionbar_shadow</item>
+        
+        <!-- <item name="android:background">@drawable/ab_bg_black</item> -->
+    </style>
+
+    <style name="Theme.AppCompat.Light.NoActionBar.FullScreen" parent="@style/Theme.AppCompat.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OIC Map</string>
+    <string name="store_name">Store name</string>
+    <string name="loi_di">Way</string>
+    <string name="cai_dat">Setting</string>
+    
+    <!-- Find baby screen -->
+    <string name="ten">Name</string>
+    <string name="tuoi">Age</string>
+    <string name="gioi_tinh">Gender</string>
+    <string name="ngay_sinh">Birthday</string>
+    <string name="mo_ta">Description</string>
+    <string name="male">Boy</string>
+    <string name="female">Girl</string>
+    <string name="chi_tiet">More info&#8230;</string>
+    
+    <!-- RouteScreen -->
+    <string name="diem_di">Start point</string>
+    <string name="diem_den">End point</string>
+    <string name="tim_duong">Direction</string>
+    <string name="tim_tre_lac">Find child</string>
+    <string name="vi_tri_cua_toi">My Location</string>
+    
+    <!-- SplashScreen -->
+    <string name="bat_dau">START</string>
+    
+    <!-- SettingScreen -->
+    <string name="device_version">Device version: </string>
+    <string name="unknown">unknown </string>
+    <string name="app_version">App version: </string>
+    <string name="map_version">OIC-Map version: </string>
+    <string name="release_date">Release date: </string>
+    <string name="map_debug">OIC Map Debug: </string>
+    <string name="map_rotate">OIC Map Rotate: </string>
+    <string name="show_welcome">Welcome on next time: </string>
+	
+	<!-- HomeScreen -->
+	<string name="openDrawerContentDescRes">Category</string>
+	<string name="closeDrawerContentDescRes">OIC Map</string>
+	<string name="action_search">Search</string>
+	<string name="search">Search</string>
+	<string name="action_save_wifi">Save wifi</string>
+	<string name="select_map">Choose map</string>
+	<string name="cua_hang_loi_di">Store, way&#8230;</string>
+	<string name="kfc">KFC</string>
+	
+	<!-- storeScreen -->
+	<string name="royal_city">Royal City</string>
+	
+	<!-- mapview -->
+	<string name="cua_hang">Store</string>
+	<string name="dia_diem">Place</string>
+	<string name="ban_do">Map</string>
+	<string name="khuyen_mai">Promotion</string>
+	
+	<string name="shop">Shop</string>
+	<string name="food">Food</string>
+	<string name="healthcare">Beauty</string>
+	<string name="play">Play</string>
+	<string name="notify">Find lost child</string>
+	<string name="setting">Setting</string>
+</resources>

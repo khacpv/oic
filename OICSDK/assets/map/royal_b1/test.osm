@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+<bounds minlat='0.0742953' minlon='-0.0247647' maxlat='-0.0714114' maxlon='0.1050419' origin='OpenStreetMap server' />
+  <node id='-3240' action='modify' visible='true' lat='0.05158910324' lon='0.01662226765' />
+  <node id='-3238' action='modify' visible='true' lat='0.04494019854' lon='0.01654216034' />
+  <node id='-3236' action='modify' visible='true' lat='0.04253697982' lon='0.01413894092' />
+  <node id='-3234' action='modify' visible='true' lat='0.04261708711' lon='0.00652874609' />
+  <node id='-3233' action='modify' visible='true' lat='0.05158910324' lon='0.00668896072' />
+  <way id='-3235' action='modify' visible='true'>
+    <nd ref='-3233' />
+    <nd ref='-3234' />
+    <nd ref='-3236' />
+    <nd ref='-3238' />
+    <nd ref='-3240' />
+    <nd ref='-3233' />
+    <tag k='color_fill' v='#fffaaa' />
+  </way>
+</osm>

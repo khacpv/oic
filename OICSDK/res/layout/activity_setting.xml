@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/editbox_background"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/device_version"
+                android:textColor="@color/menu_text"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/device_version"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/unknown"
+                android:textColor="@color/base_color"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/editbox_background"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/app_version"
+                android:textColor="@color/menu_text"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/app_version"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/unknown"
+                android:textColor="@color/base_color"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/editbox_background"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/map_version"
+                android:textColor="@color/menu_text"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/map_version"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/unknown"
+                android:textColor="@color/base_color"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/editbox_background"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/release_date"
+                android:textColor="@color/menu_text"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/release_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/unknown"
+                android:textColor="@color/base_color"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/editbox_background"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/map_debug"
+                android:textColor="@color/menu_text"
+                android:textSize="18sp" />
+
+            <ToggleButton
+                android:id="@+id/btn_toggle_debug"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="end"
+                android:onClick="btnClicked"
+                android:singleLine="true"
+                android:textColor="@color/base_color"
+                android:textOff="DEBUG_OFF"
+                android:textOn="DEBUG_ON"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/editbox_background"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/map_rotate"
+                android:textColor="@color/menu_text"
+                android:textSize="18sp" />
+
+            <ToggleButton
+                android:id="@+id/btn_toggle_rotate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="end"
+                android:onClick="btnClicked"
+                android:singleLine="true"
+                android:textColor="@color/base_color"
+                android:textOff="ROTATE_OFF"
+                android:textOn="ROTATE_ON"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/editbox_background"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/show_welcome"
+                android:textColor="@color/menu_text"
+                android:textSize="18sp" />
+
+            <ToggleButton
+                android:id="@+id/btn_toggle_splash"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="end"
+                android:onClick="btnClicked"
+                android:singleLine="true"
+                android:textColor="@color/base_color"
+                android:textOff="GONE"
+                android:textOn="SHOW"
+                android:textSize="18sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

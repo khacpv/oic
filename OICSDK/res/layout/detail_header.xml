@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp" >
+
+        <ImageView
+            android:id="@+id/iv_big"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/app_name"
+            android:scaleType="centerCrop"
+            android:src="@drawable/sample_banner" />
+
+        <com.oic.sdk.vender.CircleImageView
+            android:id="@+id/detail_header_logo"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="25dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginStart="25dp"
+            android:src="@drawable/logo_empty" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/detail_header_logo"
+            android:layout_toRightOf="@id/detail_header_logo"
+            android:gravity="center_vertical"
+            android:orientation="vertical" 
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginStart="15dp">
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:singleLine="true"
+                android:text="KFC"
+                android:textColor="#2ecc71"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/desc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:singleLine="true"
+                android:text="Fastfood"
+                android:textColor="#7380b0"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</merge>

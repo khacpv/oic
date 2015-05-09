@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView 
+            android:id="@+id/detail_prom_expand"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/ic_detail_expand"
+            android:contentDescription="@string/app_name"/>
+        <LinearLayout 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_gravity="center_vertical"
+            android:orientation="vertical">
+            <TextView 
+                android:id="@+id/detail_prom_text1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:text="Mua 2 tặng 1"
+                android:textSize="16sp"
+                android:textColor="#985965"/>
+            <TextView 
+                android:id="@+id/detail_prom_text2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:textSize="14sp"
+                android:text="Từ 15/09/2014"
+                android:textColor="#7380b0"/>
+        </LinearLayout>
+    </LinearLayout>
+	<LinearLayout 
+	    android:id="@+id/detail_prom_layout_desc"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:padding="10dp"
+	    android:visibility="gone"
+	    android:background="@drawable/ic_promotion_detail">
+	    <TextView 
+	        android:id="@+id/detail_prom_desc"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="Được áp dụng tại tất cả các cửa hàng KFC trên toàn quốc"
+	        android:textColor="#FFF"/>
+	</LinearLayout>
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="1dp"
+	    android:background="#339c9c9c"/>
+</LinearLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <!-- green v1: #22CC77 -->
+    <color name="base_color">#F44336</color>
+    <color name="base_color_dark">#D50000</color>
+    
+    <color name="home_tab_3_text_select">#FFFFFF</color>
+    <color name="home_tab_3_text_normal">#EAEAEA</color>
+    
+    <color name="menu_bg_shop">#c6f3de</color>
+    <color name="menu_bg_food">#fcda83</color>
+    <color name="menu_bg_healthcare">#fbc8d9</color>
+    <color name="menu_bg_play">#a4c2f4</color>
+    <color name="menu_bg_setting">#cccccc</color>
+    
+    <color name="menu_bg_shop_select">#8eccaf</color>
+    <color name="menu_bg_food_select">#f0c351</color>
+    <color name="menu_bg_healthcare_select">#dc87a4</color>
+    <color name="menu_bg_play_select">#6d94d4</color>
+    <color name="menu_bg_setting_select">#9f9f9f</color>
+    
+    <color name="menu_text">#9B9B9B</color>
+    <color name="menu_text_select">#FFFFFF</color>
+    
+    <color name="actionbar_title_selected">#FF22ac51</color>
+    <drawable name="gray">#CFCFCF</drawable>
+</resources>
