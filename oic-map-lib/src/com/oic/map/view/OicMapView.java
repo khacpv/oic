@@ -7,7 +7,7 @@ import android.graphics.PointF;
 import android.graphics.RectF;
 import android.util.AttributeSet;
 import android.util.Log;
-import com.oic.map.AbsMapView;
+import com.oic.map.abs.AbsMapView;
 
 /**
  * Created by khacpham on 5/9/15.

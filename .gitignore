@@ -1,0 +1,20 @@
+# General ignore
+*.class
+*.iml
+*.jar
+*.classpath
+*.DS_Store
+*.project
+*.settings
+*.properties
+*/bin
+*/gen
+
+.idea
+.metadata
+out
+
+android-support-v7-appcompat
+google-play-services_lib
+oic-app/gen
+OICSDK/gen

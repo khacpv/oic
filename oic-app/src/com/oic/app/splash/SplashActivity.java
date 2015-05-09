@@ -3,6 +3,7 @@ package com.oic.app.splash;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import com.oic.app.R;
 import com.oic.app.home.HomeActivity;
 
 public class SplashActivity extends Activity {
